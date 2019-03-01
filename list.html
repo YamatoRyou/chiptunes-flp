@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>红白机风格 Chiptune FL Studio 工程 (FL Studio 11.x)</title>
+    <link rel="stylesheet" href="./layui/css/layui.css"  media="all">
+    <script src="./layui/layui.all.js"></script>
+  </head>
+  <style type="text/css">
+    a {color:#008275}
+    blockquote.layui-elem-quote {font-size:125%; line-height:175%}
+    fieldset.layui-elem-field.layui-field-title {margin: 0 0 0 0}
+    table.layui-table {margin: 0 0 0 0}
+    div.layui-layer.layui-layer-dialog {width: 600px !important}
+  </style>
+  <body>
+    <blockquote class="layui-elem-quote">红白机风格 Chiptune FL Studio 工程 (FL Studio 11.x), 基于 KeyGen / Crack / Patcher / MOD / PC GAMES.<br>工程作者: <a href="http://site.douban.com/YamatoRyou/" target="new"><strong>Yamato Ryou</strong></a></blockquote>
+
+    <fieldset class="layui-elem-field layui-field-title">
+      <legend>须知</legend>
+    </fieldset>
+
+    <table class="layui-table" lay-skin="nob">
+      <tr>
+        <th width="30"></th>
+        <th>●&nbsp;&nbsp;本项目用于演示 2A03 预置 for FL Studio 的最终效果.</th>
+      </tr>
+      <tr>
+        <th width="30"></th>
+        <th>●&nbsp;&nbsp;按照工程作者意愿, 所有公开的工程文件只能作为学习 / 非商业用途, 不得将工程中的任何部分添加到其它商业作品 (包括: 乐谱; 自动控制剪辑; 控制器事件; 工程注释; 工程文件附带的采样; 数字签名).</th>
+      </tr>
+      <tr>
+        <th width="30"></th>
+        <th>●&nbsp;&nbsp;所有公开的工程文件都具备工程作者的数字签名.</th>
+      </tr>
+    </table>
+
+    <fieldset class="layui-elem-field layui-field-title">
+      <legend>兼容性</legend>
+    </fieldset>
+    
+    <table class="layui-table" lay-skin="nob">
+      <tbody>
+        <tr>
+          <th width="30"></th>
+          <th>●&nbsp;&nbsp;本页公开的工程使用 FL Studio 11.1.0 创建及修改, 使用旧版本可能无法完整地打开工程. <button data-method="setTop" onclick="show2()" class="layui-btn layui-btn-sm">查看演示</button></th>
+        </tr>
+        <tr>
+          <th width="30"></th>
+          <th>●&nbsp;&nbsp;在 FL Studio 12 及更新版本, FPC 音量将减小, 可以在通道设置中将 &quot;音量倍增&quot; 提升到 140%.</th>
+        </tr>
+        <tr>
+          <th width="30"></th>
+          <th>●&nbsp;&nbsp;由于存在数字签名, FL Studio 12 及更高版本无法直接打开本页公开的工程文件, 需要先解压压缩文件中的所有文件到同一位置, 并单独打开 FLP 文件. <button data-method="setTop" onclick="show3()" class="layui-btn layui-btn-sm">查看演示</button></th>
+        </tr>
+        <tr>
+          <th width="30"></th>
+          <th>●&nbsp;&nbsp;由于 FL Studio 12 及更高版本不再支持富文本格式的工程注释, 打开工程文件时部分注释将显示为乱码.</th>
+        </tr>
+        <tr>
+          <th width="30"></th>
+          <th>●&nbsp;&nbsp;本页公开的工程均不使用第三方插件.</th>
+        </tr>
+      </tbody>
+    </table>
+
+    <script>
+        function show2() {
+          layer.open({
+          title: '查看演示',
+          type: 1,
+          area: ['937px', '681px'],
+          shadeClose: true,
+          resize: false,
+          content: '<img src="./res/{6F756402-BF90-46CD-984A-8E721A0B935B}.png"></img>'
+          })
+        };
+        function show3() {
+          layer.open({
+          title: '查看演示',
+          type: 1,
+          area: ['850px', '600px'],
+          shadeClose: true,
+          resize: false,
+          content: '1. 解压 ZIP 包中的所有内容到某个路径.<br><img src="./res/{CF4C5F5D-8E5C-461A-808B-65781FB7202D}.png"></img><br><br>2. 打开解压得到的 FLP 文件, 确保工程所用素材与工程文件处于同一路径.<br><img src="./res/{311795CB-C39C-4ABE-8BA3-11C61EDD7DD4}.png"></img>'
+
+          })
+        };
+      </script>
+
+    <div style="padding: 10px">
+      <table class="layui-table">
+        <thead>
+          <tr id="ilxYC">
+            <th>标准名称 (绿色表示可高亮并直达)</th>
+            <th>工程名称 (绿色表示可下载)</th>
+            <th width="90">起始日期</th>
+            <th>版本标识</th>
+            <th>原作者信息</th>
+            <th>备注或第一直觉信息</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr id="i8U2B">
+            <th><strong><strong><a href="?item=i8U2B">Wild Fight</a></strong></th>
+            <th><strong><a href="./旧模式/2A03%20BGM%20-%20Wild%20Fight%20(兼容版本).zip">2A03 BGM - Wild Fight (兼容版本)</a></strong></th>
+            <th>2012 / 03 / 04</th>
+            <th>05</th>
+            <th>Lee HyoChan, 2009</th>
+            <th>2013 / 10 / 24 修改</th>
+          </tr>
+          <tr id="ia52X">
+            <th><strong><strong><a href="?item=ia52X">Sad Song</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Sad%20Song%20(兼容版本).zip">2A03 BGM - Sad Song (兼容版本)</a></strong></th>
+            <th>2012 / 12 / 03</th>
+            <th>06</th>
+            <th>Darkman007 (Vladimir Tugay), 2012</th>
+            <th>2013 / 10 / 23 修改 <br>原名称: Unknown - 16<br>忍者神龟 2012</th>
+          </tr>
+          <tr id="">
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="icy89">
+            <th><strong><strong><a href="?item=icy89">Unreal Superhero 3</a></strong></th>
+            <th><strong><a href="./旧模式/2A03 BGM - Unreal Superhero 3 (兼容版本).zip">2A03 BGM - Unreal Superhero 3 (兼容版本)</a></strong></th>
+            <th>2013 / 01&nbsp;/ 07</th>
+            <th>08</th>
+            <th>Digital Insanity, 未知年份</th>
+            <th>2013 / 10 / 23 修改, <br>原名称: Unknown - 17</th>
+          </tr>
+          <tr id="iCwaZ">
+            <th><strong><strong><a href="?item=iCwaZ">Unknown - 18</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Unknown%20-%2018%20(兼容版本).zip">2A03 BGM - Unknown - 18 (兼容版本)</a></strong></th>
+            <th>2013 / 08 / 04</th>
+            <th>0C</th>
+            <th>&nbsp;</th>
+            <th>Bad Days 金刚狼</th>
+          </tr>
+          <tr id="iJ6WE">
+            <th><strong><strong><a href="?item=iJ6WE">Top Hat - Ingame 2</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Top%20Hat%20-%20Ingame%202%20(兼容版本).zip">2A03 BGM - Top Hat - Ingame 2 (兼容版本)</a></strong></th>
+            <th>2013 / 08 / 21</th>
+            <th>0B</th>
+            <th>Jakim (Mateusz Szymański), 2012</th>
+            <th>2015 / 06 / 01 修改, <br>原名称: Unknown - 19</th>
+          </tr>
+          <tr id="ijK0q">
+            <th><strong><strong><a href="?item=ijK0q">Demios</a></strong></th>
+            <th><strong><a href="./旧模式/2A03%20BGM%20-%20Demios%20(兼容版本).zip">2A03 BGM - Demios (兼容版本)</a></strong></th>
+            <th>2013 / 08 / 28</th>
+            <th>04</th>
+            <th>Sanxion7 (Tony Konzel), 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iPVfG">
+            <th><strong><strong><a href="?item=iPVfG">Immortality</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Immortality%20(兼容版本).zip">2A03 BGM - Immortality (兼容版本)</a></strong></th>
+            <th>2013 / 09 / 07</th>
+            <th>06</th>
+            <th>Darkman007 (Vladimir Tugay), 2007</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iJ3DM">
+            <th><strong><strong><a href="?item=iJ3DM">Raising Dust</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Raising%20Dust%20(兼容版本).zip">2A03 BGM - Raising Dust (兼容版本)</a></strong></th>
+            <th>2013 / 09 / 26</th>
+            <th>0D</th>
+            <th>Ibon Moraza Garcia (NEtbuRNER), 2008</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iveUr">
+            <th><strong><strong><a href="?item=iveUr">RELOADED Installer #3</a></strong></th>
+            <th><strong><a href="./旧模式/2A03%20BGM%20-%20RELOADED%20Installer%20%233%20(兼容版本).zip">2A03 BGM -&nbsp;RELOADED Installer #3&nbsp;(兼容版本)</a></strong></th>
+            <th>2013 / 10 / 05</th>
+            <th>06</th>
+            <th>LHS Chiptunes, 2012</th>
+            <th>原名称: Unknown - 20</th>
+          </tr>
+          <tr id="iHTtR">
+            <th><strong><strong><a href="?item=iHTtR">RELOADED Installer #2</a></strong></th>
+            <th><strong><a href="./旧模式/2A03%20BGM%20-%20RELOADED%20Installer%20%232%20(兼容版本).zip">2A03 BGM -&nbsp;RELOADED Installer #2&nbsp;(兼容版本)</a></strong></th>
+            <th>2013 / 10 / 06</th>
+            <th>06</th>
+            <th>LHS Chiptunes, 2012</th>
+            <th>原名称: Unknown - 21</th>
+          </tr>
+          <tr id="inftw">
+            <th><strong><a href="?item=inftw">RELOADED Installer #1</a></strong></th>
+            <th><strong><a href="./旧模式/2A03%20BGM%20-%20RELOADED%20Installer%20%231%20(兼容版本).zip">2A03 BGM -&nbsp;RELOADED Installer #1&nbsp;(兼容版本)</a></strong></th>
+            <th>2013 / 10 / 06</th>
+            <th>06</th>
+            <th>LHS Chiptunes, 2012</th>
+            <th>原名称: Unknown - 22</th>
+          </tr>
+          <tr id="iTGwt">
+            <th><strong><a href="?item=iTGwt">RELOADED Installer #4</a></strong></th>
+            <th><strong><a href="./旧模式/2A03%20BGM%20-%20RELOADED%20Installer%20%234%20(兼容版本).zip">2A03 BGM -&nbsp;RELOADED Installer #4&nbsp;(兼容版本)</a></strong></th>
+            <th>2013 / 10 / 09</th>
+            <th>06</th>
+            <th>LHS Chiptunes, 2012</th>
+            <th>原名称: Unknown - 23</th>
+          </tr>
+          <tr id="ivjma">
+            <th><strong><a href="?item=ivjma">Landing To The Moon</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Landing%20To%20The%20Moon%20(兼容版本).zip">2A03 BGM - Landing To The Moon (兼容版本)</a></strong></th>
+            <th>2013 / 11 / 26</th>
+            <th>0A</th>
+            <th>Darkman007 (Vladimir Tugay), 2013</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="irGtE">
+            <th><strong><a href="?item=irGtE">Mr. Droichen</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Mr.%20Droichen%20(兼容版本).zip">2A03 BGM - Mr. Droichen (兼容版本)</a></strong></th>
+            <th>2013 / 11 / 27</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2012</th>
+            <th>Galactus (LEGO Marvel Super Heroes)</th>
+          </tr>
+          <tr id="">
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iU1B2">
+            <th><strong><a href="?item=iU1B2">Unknown - 24</a></strong></th>
+            <th><strong><a href="./新模式/2A03 BGM - Unknown - 24 (兼容版本).zip">2A03 BGM - Unknown - 24 (兼容版本)</a></strong></th>
+            <th>2014 / 01&nbsp;/ 16</th>
+            <th>04</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iGmqN">
+            <th><strong><a href="?item=iGmqN">After Raining</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20After%20Raining%20(兼容版本).zip">2A03 BGM - After Raining (兼容版本)</a></strong></th>
+            <th>2014 / 01 / 23</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iNCHd">
+            <th><strong><a href="?item=iNCHd">To The Impossible</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20To%20The%20Impossible%20(兼容版本).zip">2A03 BGM - To The Impossible (兼容版本)</a></strong></th>
+            <th>2014 / 01 / 24</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="imf0z">
+            <th><strong><a href="?item=imf0z">Respawn</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Respawn%20(兼容版本).zip">2A03 BGM - Respawn (兼容版本)</a></strong></th>
+            <th>2014 / 01 / 28</th>
+            <th>04</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="isqlG">
+            <th><strong><a href="?item=isqlG">RELOADED Installer #5</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20RELOADED%20Installer%20%235%20(兼容版本).zip">2A03 BGM -&nbsp;RELOADED Installer #5&nbsp;(兼容版本)</a></strong></th>
+            <th>2014 / 02 / 19</th>
+            <th>04</th>
+            <th>LHS Chiptunes, 2013</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="izopM">
+            <th><strong><a href="?item=izopM">RELOADED Installer #6</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20RELOADED%20Installer%20%236%20(兼容版本).zip">2A03 BGM -&nbsp;RELOADED Installer #6&nbsp;(兼容版本)</a></strong></th>
+            <th>2014 / 02 / 20</th>
+            <th>05</th>
+            <th>LHS Chiptunes, 2013</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i8ISz">
+            <th><strong><a href="?item=i8ISz">RELOADED Installer #7</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20RELOADED%20Installer%20%237%20(兼容版本).zip">2A03 BGM -&nbsp;RELOADED Installer #7&nbsp;(兼容版本)</a></strong></th>
+            <th>2014 / 03 / 24</th>
+            <th>04</th>
+            <th>LHS Chiptunes, 2013</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i8azH">
+            <th><strong><a href="?item=i8azH">Sturm durch die Nacht</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Sturm%20durch%20die%20Nacht%20(兼容版本).zip">2A03 BGM - Sturm durch die Nacht (兼容版本)</a></strong></th>
+            <th>2014 / 06 / 02</th>
+            <th>05</th>
+            <th>Florian Steinberg, 2007</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i1jmx">
+            <th><strong><a href="?item=i1jmx">Marinerad Mandarin</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Marinerad%20Mandarin%20(兼容版本).zip">2A03&nbsp;BGM - Marinerad Mandarin (兼容版本)</a></strong></th>
+            <th>2014 / 07 / 09</th>
+            <th>04</th>
+            <th>Lee HyoChan, 2008</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iiA2C">
+            <th><strong><a href="?item=iiA2C">War Stars</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20War%20Stars%20(多线程兼容版本).zip">2A03 BGM - War Stars (多线程兼容版本)</a></strong></th>
+            <th>2014 / 07 / 16</th>
+            <th>08</th>
+            <th>Jeroen Tel (WAVE), 1996</th>
+            <th>2015 / 04 / 26 修改 (II 期)<br>2016 / 05 / 24 修改
+          (III 期)<br>    变形金刚 Animated<br></th>
+          </tr>
+          <tr id="iobDF">
+            <th><strong><a href="?item=iobDF">The Crusader</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20The%20Crusader%20(兼容版本).zip">2A03 BGM - The Crusader (兼容版本)</a></strong></th>
+            <th>2014 / 08 / 14</th>
+            <th>05</th>
+            <th>Wong Chung Bang (David Newton), 2002</th>
+            <th>2014 / 08 / 18 修改<br>    Bulkhead (变形金刚 Animated)</th>
+          </tr>
+          <tr id="iCdck">
+            <th><strong><a href="?item=iCdck">Super Cyborg - Area 1<br>Super Cyborg  Steam Edition - Area 1</a></strong></th>
+            <th><p><strong><a href="./新模式/2A03%20BGM%20-%20Super%20Cyborg%20-%20Area%201%20(兼容版本).zip">2A03 BGM -&nbsp;Super Cyborg - Area 1&nbsp;(兼容版本)</a></strong></p></th>
+            <th>2014 / 09 / 23</th>
+            <th>08<br>
+              09</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>2015 / 04 / 26 修改<br>变形金刚 Animated<br>变形金刚 Rise of the Dark Spark <br><br>2016 / 04 / 28 衍生: <br><strong> <a href="./新模式/2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本).zip">2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)</a></strong></th>
+          </tr>
+          <tr id="iy6oD">
+            <th><strong><a href="?item=iy6oD">Super Cyborg - Title</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Super%20Cyborg%20-%20Title%20(兼容版本).zip">2A03 BGM -&nbsp;Super Cyborg -&nbsp;Title&nbsp;(兼容版本)</a></strong></th>
+            <th>2014 / 09 / 28</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iC78h">
+            <th><strong><a href="?item=iC78h">Super Cyborg - Miniboss<br>Super Cyborg Steam Edition - Miniboss</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Super%20Cyborg%20-%20Miniboss%20(兼容版本).zip">2A03 BGM -&nbsp;Super Cyborg -&nbsp;Miniboss&nbsp;(兼容版本)</a></strong></th>
+            <th>2014 / 11&nbsp;/ 12</th>
+            <th><p>06</p>
+            <p>07</p></th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>2015 / 04 / 26 修改<br><br>2016 / 04 / 28 衍生: <br><strong><a href="./新模式/2A03 BGM - Super Cyborg Steam Edition - Miniboss (兼容版本).zip">2A03 BGM - Super Cyborg Steam Edition - Miniboss (兼容版本)</a></strong></th>
+          </tr>
+          <tr id="i1WJF">
+            <th><strong><a href="?item=i1WJF">Super Cyborg - Trailer</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Super%20Cyborg%20-%20Trailer%20(多线程兼容版本).zip">2A03 BGM -&nbsp;Super Cyborg -&nbsp;Trailer&nbsp;(多线程兼容版本)</a></strong></th>
+            <th>2014 / 11&nbsp;/ 15</th>
+            <th>08</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>2015 / 06 / 08 修改<br>2016 / 05 / 14 修改</th>
+          </tr>
+          <tr id="ipm6F">
+            <th><strong><a href="?item=ipm6F">Level's Growth</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Level's%20Growth%20(兼容版本).zip">2A03 BGM -&nbsp;Level's Growth&nbsp;(兼容版本)</a></strong></th>
+            <th>2014 / 12 / 09</th>
+            <th>07</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>Optimus (变形金刚 Animated)</th>
+          </tr>
+          <tr id="iEHiX">
+            <th><strong><a href="?item=iEHiX">Super Cyborg - Ending</a></strong></th>
+            <th><strong><a href="./新模式/2A03%20BGM%20-%20Super%20Cyborg%20-%20Ending%20(兼容版本).zip">2A03 BGM -&nbsp;Super Cyborg -&nbsp;Ending&nbsp;(兼容版本)</a></strong></th>
+            <th>2014 / 12 / 23</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i">
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iZRPu">
+            <th><strong><a href="?item=iZRPu">Super Cyborg - Lastboss 1</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Super%20Cyborg%20-%20Lastboss%201%20(Famicom%20Version).zip">Super Cyborg - Lastboss 1 (Famicom Version)</a></strong></th>
+            <th>2015 / 01 / 11</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iHC39">
+            <th><strong><a href="?item=iHC39">Android in Rage</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Android%20in%20Rage%20(Famicom%20Version).zip">Android in Rage&nbsp;(Famicom Version)</a></strong></th>
+            <th>2015 / 02 /&nbsp;23</th>
+            <th>07</th>
+            <th>Darkman007 (Vladimir Tugay), 2012</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iOtxe">
+            <th><strong><a href="?item=iOtxe">Thunder Calls</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Thunder%20Calls%20(Famicom%20Version).zip">Thunder Calls (Famicom Version)</a></strong></th>
+            <th>2015 / 03 / 03</th>
+            <th>04</th>
+            <th>Wizardslayer, 1999</th>
+            <th>邪教</th>
+          </tr>
+          <tr id="i9Gnv">
+            <th><strong><a href="?item=i9Gnv">Metal World</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Metal%20World%20(Famicom%20Version).zip">Metal World (Famicom Version)</a></strong></th>
+            <th>2015 / 03 / 18</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2007</th>
+            <th><p>Agent Carter (Marvel TV Series)</p></th>
+          </tr>
+          <tr id="iFVm6">
+            <th><strong><a href="?item=iFVm6">Misinformation</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Misinformation%20(Famicom%20Version).zip">Misinformation (Famicom Version)</a></strong></th>
+            <th>2015 / 04 / 03</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iqBOR">
+            <th><strong><a href="?item=iqBOR">Super Cyborg - Area 5<br>Super Cyborg Steam Edition - Area 5</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Super%20Cyborg%20-%20Area%205%20(Famicom%20Version).zip">Super Cyborg - Area 5 (Famicom Version)</a></strong></th>
+            <th>2015 / 04 / 25</th>
+            <th>04<br>
+              05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>2016 / 05 / 01 衍生: <br>    <strong> <a href="./新模式 2/2016/Super Cyborg Steam Edition - Area 5 (Famicom Version).zip">Super Cyborg Steam Edition - Area 5 (Famicom Version)</a></strong></th>
+          </tr>
+          <tr id="iLKZm">
+            <th><strong><a href="?item=iLKZm">Layers</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Layers%20(Famicom%20Version).zip">Layers (Famicom Version)</a></strong></th>
+            <th>2015 / 04 / 28</th>
+            <th>07</th>
+            <th>Ceekayed (Sampo N&auml;rhi), 2005?</th>
+            <th>Terry Bogard (KOF '97)</th>
+          </tr>
+          <tr id="iwXRh">
+            <th><strong><a href="?item=iwXRh">Search</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Search%20(Famicom%20Version).zip">Search (Famicom Version)</a></strong></th>
+            <th>2015 / 05 / 03</th>
+            <th>04</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="icezv">
+            <th><strong><a href="?item=icezv">Super Cyborg - Area 7<br>Super Cyborg  Steam Edition - Area 7</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Super%20Cyborg%20-%20Area%207%20(Famicom%20Version).zip">Super Cyborg - Area 7 (Famicom Version)</a></strong></th>
+            <th>2015 / 05 / 30</th>
+            <th><p>03</p>
+            <p>04</p></th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>2016 / 04 / 29 衍生: <br><strong><a href="./新模式 2/2016/Super Cyborg Steam Edition - Area 7 (Famicom Version).zip">Super Cyborg Steam Editon - Area 7 (Famicom Version)</a></strong></th>
+          </tr>
+          <tr id="imR4v">
+            <th><strong><a href="?item=imR4v">Top Hat - Boss</th>
+            <th><strong><a href="./新模式%202/2015/Top%20Hat%20-%20Boss%20(Famicom%20Version).zip">Top Hat - Boss (Famicom Version)</a></strong></th>
+            <th>2015 / 06 / 02</th>
+            <th>05</th>
+            <th>Jakim (Mateusz Szymański), 2012</th>
+            <th>次元大介</th>
+          </tr>
+          <tr id="iQMKw">
+            <th><strong><a href="?item=iQMKw">A Thousand sunflowers</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/A%20Thousand%20sunflowers%20(Famicom%20Version).zip">A Thousand sunflowers (Famicom Version)</a></strong></th>
+            <th>2015 / 07 / 08</th>
+            <th>0D</th>
+            <th>Motherchip (Rasmus Clausen) &amp; Malmen (Kristoffer Malmgren), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iyiJ1">
+            <th><strong><a href="?item=iyiJ1">Top Hat - Main Theme</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Top%20Hat%20-%20Main%20Theme%20(Famicom%20Version).zip">Top Hat - Main Theme (Famicom Version)</a></strong></th>
+            <th>2015 / 08 / 11</th>
+            <th>06</th>
+            <th>Jakim (Mateusz Szymański), 2012</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iwc6W">
+            <th><strong><a href="?item=iwc6W">Top Hat - Ingame 4</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Top%20Hat%20-%20Ingame%204%20(Famicom%20Version).zip">Top Hat - Ingame 4 (Famicom Version)</a></strong></th>
+            <th>2015 / 09 / 18</th>
+            <th>04</th>
+            <th>Jakim (Mateusz Szymański), 2012</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iuEpK">
+            <th><strong><a href="?item=iuEpK">Top Hat - Interlude 1</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Top%20Hat%20-%20Interlude%201%20(Famicom%20Version).zip">Top Hat - Interlude 1 (Famicom Version)</a></strong></th>
+            <th>2015 / 09 / 24</th>
+            <th>04</th>
+            <th>Jakim (Mateusz Szymański), 2012</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="idX5s">
+            <th><strong><a href="?item=idX5s">Top Hat - Interlude 2</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Top%20Hat%20-%20Interlude%202%20(Famicom%20Version).zip">Top Hat - Interlude 2 (Famicom Version)</a></strong></th>
+            <th>2015 / 10 / 12</th>
+            <th>03</th>
+            <th>Jakim (Mateusz Szymański), 2012</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i3qLs">
+            <th><strong><a href="?item=i3qLs">Streets of Venice</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Streets%20of%20Venice%20(Famicom%20Version).zip">Streets of Venice (Famicom Version)</a></strong></th>
+            <th>2015 / 10 / 20</th>
+            <th>0C</th>
+            <th>Norfair (Carl Aborg) &amp; Echo off, 1998</th>
+            <th>Jazz (变形金刚 Animated)<br>Jazz (变形金刚 RID)</th>
+          </tr>
+          <tr id="ihBoa">
+            <th><strong><a href="?item=ihBoa">Afflatus</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Afflatus%20(Famicom%20Version).zip">Afflatus (Famicom Version)</a></strong></th>
+            <th>2015 / 11 / 15</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="ik6LE">
+            <th><strong><a href="?item=ik6LE">Beach at Sunset</a></strong></th>
+            <th><strong><a href="./新模式 2/2015/Beach at Sunset (Famicom Version).zip">Beach at Sunset (Famicom Version)</a></strong></th>
+            <th>2015 / 11 / 16</th>
+            <th>04</th>
+            <th>Damian Gray, 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i5eQ4">
+            <th><strong><a href="?item=i5eQ4">Top Hat - Interlude 3</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Beach%20at%20Sunset%20(Famicom%20Version).zip">Top Hat - Interlude 3 (Famicom Version)</a></strong></th>
+            <th>2015 / 11 / 19</th>
+            <th>04</th>
+            <th>Jakim (Mateusz Szymański), 2012</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iwUH2">
+            <th><strong><a href="?item=iwUH2">Freeze-Dried</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Freeze-Dried%20(Famicom%20Version).zip">Freeze-Dried (Famicom Version)</a></strong></th>
+            <th>2015 / 11 / 22</th>
+            <th>04</th>
+            <th>Pip Malt (Jaren Grey), 2008</th>
+            <th>废墟大冒险</th>
+          </tr>
+          <tr id="iBIkA">
+            <th><strong><a href="?item=iBIkA">Experiments on Himself</a></strong></th>
+            <th><strong><a href="./新模式%202/2015/Experiments%20on%20Himself%20(Famicom%20Version).zip">Experiments on Himself (Famicom Version)</a></strong></th>
+            <th>2015 / 12 / 26</th>
+            <th>04</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>Tater potato chips by Oishi</th>
+          </tr>
+          <tr id="i">
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iyZb9">
+            <th><strong><a href="?item=iyZb9">I Made a Mistake</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/I%20Made%20a%20Mistake%20(Famicom%20Version).zip">I Made a Mistake (Famicom Version)</a></strong></th>
+            <th>2016 / 01 / 06</th>
+            <th>0A</th>
+            <th>Pip Malt (Jaren Grey), 2009 </th>
+            <th>Wheeljack (变形金刚 Prime)</th>
+          </tr>
+          <tr id="idAWN">
+            <th><strong><a href="?item=idAWN">NOISY PILLARS 2001</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/NOISY%20PILLARS%202001%20(Famicom%20Version).zip">NOISY PILLARS 2001 (Famicom Version)</a></strong></th>
+            <th>2016 / 02 / 07</th>
+            <th>06</th>
+            <th>Thomas Mogensen (DRAX) &amp; Jeroen Tel (WAVE), 2001</a></strong></th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iyBoH">
+            <th><strong><a href="?item=iyBoH">Funky Kitchen</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Funky%20Kitchen%20(Famicom%20Version).zip">Funky Kitchen (Famicom Version)</a></strong></th>
+            <th>2016 / 02 / 20</th>
+            <th>04</th>
+            <th>Gammis, 2002</th>
+            <th>Krusty Krab</th>
+          </tr>
+          <tr id="iAQF1">
+            <th><strong><a href="?item=iAQF1">Capsaicin Blues</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Capsaicin%20Blues%20(Famicom%20Version).zip">Capsaicin Blues (Famicom Version)</a></strong></th>
+            <th>2016 / 03 / 01</th>
+            <th>04</th>
+            <th>Pip Malt  (Jaren Grey) &amp; Jakim (Mateusz Szymański), 2010</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iPlsH">
+            <th><strong><a href="?item=iPlsH">Delightful</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/The%20Punisher%20(Famicom%20Version).zip">The Punisher (Famicom Version)</a></strong></th>
+            <th>2016 / 03 / 22</th>
+            <th>08</th>
+            <th>Falcon (Jacek Dojwa) &amp; Substance, 1995</th>
+            <th>Punisher (Marvel, 2011 #8)</th>
+          </tr>
+          <tr id="i3Nx6">
+            <th><strong><a href="?item=i3Nx6">Marble Funk</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Marble%20Funk%20(Famicom%20Version).zip">Marble Funk (Famicom Version)</a></strong></th>
+            <th>2016 / 04 / 06</th>
+            <th>05</th>
+            <th>Sector Zero, 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i402j">
+            <th><strong><a href="?item=i402j">Sadness</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Sadness%202%20(Famicom%20Version).zip">Sadness 2  (Famicom Version)</a></strong></th>
+            <th>2016 / 04 / 16</th>
+            <th>04</th>
+            <th>Christian Vogt (Avalance), 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iEKfW">
+            <th><strong><a href="?item=iEKfW">Super Cyborg Steam Edition - Area 6</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Super%20Cyborg%20Steam%20Edition%20-%20Area%206%20(Famicom%20Version).zip">Super Cyborg Steam Edition - Area 6 (Famicom Version)</a></strong></th>
+            <th>2016 / 05 / 06</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iW97z">
+            <th><strong><a href="?item=iW97z">Super Cyborg Steam Edition - Area 3</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Super%20Cyborg%20Steam%20Edition%20-%20Area%203%20(Famicom%20Version).zip">Super Cyborg Steam Edition - Area 3 (Famicom Version)</a></strong></th>
+            <th>2016 / 05 / 15</th>
+            <th>03</th>
+            <th>Darkman007 (Vladimir Tugay), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i2l6b">
+            <th><strong><a href="?item=i2l6b">Checks</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Square%20Egg%20(Famicom%20Version).zip">Square Egg (Famicom Version)</a></strong></th>
+            <th>2016 / 05 / 31</th>
+            <th>04</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="icUQX">
+            <th><strong><a href="?item=icUQX">Bosvedjan Jam</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Bosvedjan%20Jam%20(Famicom%20Version).zip">Bosvedjan Jam (Famicom Version)</a></strong></th>
+            <th>2016 / 06 / 05</th>
+            <th>04</th>
+            <th>LizardKing (Gustaf Grefberg), 未知年份</th>
+            <th>Tom &amp; Jerry, 1949</th>
+          </tr>
+          <tr id="izZUj">
+            <th><strong><a href="?item=izZUj">A1 sauce fer ya</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/A1%20sauce%20fer%20ya%20(Famicom%20Version).zip">A1 sauce fer ya (Famicom Version)</a></strong></th>
+            <th>2016 / 06 / 24</th>
+            <th>04</th>
+            <th>MADBRAIN (Hubert Lamontagne), 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iZV0y">
+            <th><strong><a href="?item=iZV0y">Zinedine Cheezane</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Zinedine%20Cheezane%20(Famicom%20Version).zip">Zinedine Cheezane (Famicom Version)</a></strong></th>
+            <th>2016 / 07 / 03</th>
+            <th>04</th>
+            <th>Xerxes (Klaus Lunde) &amp; Brainstorm, 2006?</th>
+            <th>我 TM 掉河里了!!!</th>
+          </tr>
+          <tr id="in2s9">
+            <th><strong><a href="?item=in2s9">Hometown Dreams</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Hometown%20Dreams%20(Famicom%20Version).zip">Hometown Dreams (Famicom Version)</a></strong></th>
+            <th>2016 / 07 / 07</th>
+            <th>07</th>
+            <th>Vince Kaichan (Vincent Chang), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i3hHV">
+            <th><strong><a href="?item=i3hHV">F-Phunk</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/F-Phunk%20(Famicom%20Version).zip">F-Phunk (Famicom Version)</a></strong></th>
+            <th>2016 / 07 / 16</th>
+            <th>07</th>
+            <th>Vince Kaichan (Vincent Chang), 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iztV7">
+            <th><strong><a href="?item=iztV7">C. Jones</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Casey%20Jones%20(Famicom%20Version).zip">Casey Jones (Famicom Version)</a></strong></th>
+            <th>2016 / 07 / 25</th>
+            <th>05</th>
+            <th>Vince Kaichan (Vincent Chang), 2014</th>
+            <th>Casey Jones (TMNT 2003)</th>
+          </tr>
+          <tr id="ifdTK">
+            <th><strong><a href="?item=ifdTK">Wizard Land</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Wizard%20Land%20(Famicom%20Version).zip">Wizard Land (Famicom Version)</a></strong></th>
+            <th>2016 / 08 / 07</th>
+            <th>05</th>
+            <th>MichU, 2007</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i4WpN">
+            <th><strong><a href="?item=i4WpN">Werewolf Cry</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Werewolf%20Cry%20(Famicom%20Version).zip">Werewolf Cry (Famicom Version)</a></strong></th>
+            <th>2016 / 08 / 19</th>
+            <th>05</th>
+            <th>War Hawk, 2001</th>
+            <th>Yan Otha Breg (Lizkay, 2010)</th>
+          </tr>
+          <tr id="iThmL">
+            <th><strong><a href="?item=iThmL">Sweet &amp; Sour Girl</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Sweet%20&%20Sour%20Girl%20(Famicom%20Version).zip">Sweet &amp; Sour Girl (Famicom Version)</a></strong></th>
+            <th>2016 / 08 / 30</th>
+            <th>04</th>
+            <th>ZIPP &amp; KFMF, 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="isM7j">
+            <th><strong><a href="?item=isM7j">The Pulse of Da City</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/The%20Pulse%20of%20Da%20City%20(Famicom%20Version).zip">The Pulse of Da City (Famicom Version)</a></strong></th>
+            <th>2016 / 09 / 03</th>
+            <th>07</th>
+            <th>Frenzy, 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="ileQM">
+            <th><strong><a href="?item=ileQM">Haydee</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Haydee%20(Famicom%20Version).zip">Haydee (Famicom Version)</a></strong></th>
+            <th>2016 / 09 / 16</th>
+            <th>05</th>
+            <th>Elijah, 未知年份</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="ilTjJ">
+            <th><strong><a href="?item=ilTjJ">Solar System Smash - Main Game</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Solar%20System%20Smash%20-%20Main%20Game%20(Famicom%20Version).zip">Solar System Smash - Main Game (Famicom Version)</a></strong></th>
+            <th>2016 / 09 / 23</th>
+            <th>08</th>
+            <th>Vince Kaichan (Vincent Chang), 2015</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iCZYN">
+            <th><strong><a href="?item=iCZYN">Metropolis</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Metropolis%20(Famicom%20Version).zip">Metropolis (Famicom Version)</a></strong></th>
+            <th>2016 / 10 / 01</th>
+            <th>08</th>
+            <th>Vince Kaichan (Vincent Chang), 2015</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="ixadB">
+            <th><strong><a href="?item=ixadB">Happy Turtle Village</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/How%20To%20Be%20an%20Egg%20(Famicom%20Version).zip">How To Be an Egg (Famicom Version)</a></strong></th>
+            <th> 2016 / 10 / 28</th>
+            <th>03</th>
+            <th>Slammy, 未知年份</th>
+            <th>Howtobasic, 2014</th>
+          </tr>
+          <tr id="ilR3P">
+            <th><strong><a href="?item=ilR3P">Compaction</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Compaction%20(Famicom%20Version).zip">Compaction (Famicom Version)</a></strong></th>
+            <th>2016 / 11 / 08</th>
+            <th>04</th>
+            <th>Pip Malt (Jaren Grey), 2009</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i13ho">
+            <th><strong><a href="?item=i13ho">Valium Candies</a></strong></th>
+            <th><strong><a href="./新模式%202/2016/Valium%20Candies%20(Famicom%20Version).zip">Valium Candies (Famicom Version)</a></strong></th>
+            <th>2016 / 12 / 07</th>
+            <th>05</th>
+            <th>Jakim (Mateusz Szymański), 2010</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i">
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i8Vmw">
+            <th><strong><a href="?item=i8Vmw">Robbox - End</a></strong></th>
+            <th><strong><a href="./新模式%202/2017/Robbox%20-%20End%20(Famicom%20Version).zip">Robbox - End (Famicom Version)</a></strong></th>
+            <th>2017 / 01 / 03</th>
+            <th>09</th>
+            <th>Darkman007 (Vladimir Tugay), 2006</th>
+            <th>狮子兽, 数码宝贝大冒险 (TV 动画), 1999</th>
+          </tr>
+          <tr id="igxIo">
+            <th><strong><a href="?item=igxIo">Robbox - Title</a></strong></th>
+            <th><strong><a href="./新模式%202/2017/Robbox%20-%20Title%20(Famicom%20Version).zip">Robbox - Title (Famicom Version)</a></strong></th>
+            <th>2017 / 01 / 27</th>
+            <th>05</th>
+            <th>VIBE (Sergey Eybog), 2003</th>
+            <th>原始名称: I should quit chipping?<br>努巴尼之夜, 守望先锋 2016 夏季运动会</th>
+          </tr>
+          <tr id="iXnvd">
+            <th><strong><a href="?item=iXnvd">Chroma Ways - Title</a></strong></th>
+            <th><strong><a href="./新模式 2/2017/Chroma Ways - Menu (Famicom Version).zip">Chroma Ways - Menu (Famicom Version)</a></strong></th>
+            <th>2017 / 03 / 23</th>
+            <th>03</th>
+            <th>Darkman007 (Vladimir Tugay), 2006</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i2Bqs">
+            <th><strong><a href="?item=i2Bqs">Sunset Riders</a></strong></th>
+            <th> <strong><a href="./新模式%202/2017/Sunset%20Riders%20(Famicom%20Version).zip">Sunset Riders (Famicom Version)</a></strong></th>
+            <th>2017 / 04 / 09</th>
+            <th>04</th>
+            <th>Vince Kaichan (Vincent Chang), 2015</th>
+            <th>Robbie Reyes (恶灵骑士, 神盾局特工 S4)</th>
+          </tr>
+          <tr id="iwTI3">
+            <th><strong><a href="?item=iwTI3">With a Rocket Engine</a></strong></th>
+            <th><strong><a href="./新模式%202/2017/With%20a%20Rocket%20Engine%20(Famicom%20Version).zip">With a Rocket Engine (Famicom Version)</a></strong></th>
+            <th>2017 / 06 / 30</th>
+            <th>06</th>
+            <th>Darkman007 (Vladimir Tugay), 2013</th>
+            <th>法医学彩色图谱, 1985</th>
+          </tr>
+          <tr id="iuW7a">
+            <th><strong><a href="?item=iuW7a">Golden Lonely</a></strong></th>
+            <th><strong><a href="./新模式 2/2017/Golden Lonely (Famicom Version).zip">Golden Lonely (Famicom Version)</a></strong></th>
+            <th>2017 / 09 / 04</th>
+            <th>04</th>
+            <th>Vince Kaichan (Vincent Chang), 2013?</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="icr0m">
+            <th><strong><a href="?item=icr0m">Chiptro #02</a></strong></th>
+            <th><strong><a href="./新模式%202/2017/Unknown%20-%2025%20(Famicom%20Version).zip">Unknown - 25 (Famicom Version)</a></strong></th>
+            <th>2017 / 11 / 12</th>
+            <th>05</th>
+            <th>MichU, 2008?</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iVkD6">
+            <th><strong><a href="?item=iVkD6">Gay</a></strong></th>
+            <th><strong><a href="./新模式%202/2017/Gay%20(Famicom%20Version).zip">Gay (Famicom Version)</a></strong></th>
+            <th>2017 / 11 / 28</th>
+            <th>04</th>
+            <th>goluigi, 2014</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="ir9Ua">
+            <th><strong><a href="?item=ir9Ua">Sidewalk Gum</a></strong></th>
+            <th><strong><a href="./新模式%203/2017/Sidewalk%20Gum%20(Famicom%20Version).zip">Sidewalk Gum (Famicom Version)</a></strong></th>
+            <th>2017 / 12 / 03</th>
+            <th>05</th>
+            <th>TigerHawk, 2000</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i">
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iRJlx">
+            <th><strong><a href="?item=iRJlx">Crystal Ice Caves</a></strong></th>
+        <th><strong><a href="./新模式%203/2018/Crystal%20Ice%20Caves%20(Famicom%20Version).zip">Crystal Ice Caves (Famicom Version)</a></strong></th>
+            <th>2018 / 01 / 18</th>
+            <th>03</th>
+            <th>Vince Kaichan (Vincent Chang), 2015</th>
+            <th>心境小调; 灯饰; 奇异的; (Motorola, 2004)</th>
+          </tr>
+          <tr id="ihQZu">
+            <th><strong><a href="?item=ihQZu">天の川</a></strong></th>
+            <th><strong><a href="./新模式%203/2018/天の川%20(Famicom%20Version).zip">天の川 (Famicom Version)</a></strong></th>
+            <th>2018 / 02 / 14</th>
+            <th>06</th>
+            <th>Vince Kaichan (Vincent Chang), 2014</th>
+            <th>静海</th>
+          </tr>
+          <tr id="isX39">
+            <th><strong><a href="?item=isX39">Adrenalin Raskolbas</a></strong></th>
+        <th><strong><a href="./新模式%203/2018/Adrenalin%20Raskolbas%20(Famicom%20Version).zip">Adrenalin Raskolbas (Famicom Version)</a></strong></th>
+            <th>2018 / 03 / 17</th>
+            <th>05</th>
+            <th>Darkman007 (Vladimir Tugay), 2018</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="ioaSz">
+            <th><strong><a href="?item=ioaSz">Cosmic</a></strong></th>
+            <th><strong><a href="./新模式%203/2018/Cosmic%20(Famicom%20Version).zip">Cosmic (Famicom Version)</a></strong></th>
+            <th>2018 / 03 / 25</th>
+            <th>08</th>
+            <th>Darkman007 (Vladimir Tugay), 2012</th>
+            <th>Baltron (Famicom, Shouei System, 1986)</th>
+          </tr>
+          <tr id="iydWq">
+            <th><strong><a href="?item=iydWq">Permobiloffer</a></strong></th>
+            <th><strong><a href="./新模式%203/2018/Permobiloffer%20(Famicom%20Version).zip">Permobiloffer (Famicom Version)</a></strong></th>
+            <th>2018 / 04 / 12</th>
+            <th>06</th>
+            <th>Loonie, 2008</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iH1y3">
+            <th><strong><a href="?item=iH1y3">Iron Knuckles</a></strong></th>
+            <th><strong><a href="./新模式%203/2018/Iron%20Knuckles%20(Famicom%20Version).zip">Iron Knuckles (Famicom Version)</a></strong></th>
+            <th>2018 / 07 / 02</th>
+            <th>08</th>
+            <th>Wong Chung Bang (David Newton), 2003</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="irGD4">
+            <th><strong><a href="?item=irGD4">Temple of Rust</a></strong></th>
+            <th><strong><a href="./新模式%203/2018/Temple%20of%20Rust%20(Famicom%20Version).zip">Temple of Rust (Famicom Version)</a></strong></th>
+            <th>2018 / 07 / 23 </th>
+            <th>05</th>
+            <th>Wong Chung Bang (David Newton), 2007</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iZh2r">
+            <th><strong><a href="?item=iZh2r">Tale of the Cave</a></strong></th>
+            <th><strong><a href="./新模式%203/2018/Tale%20of%20the%20Cave%20(Famicom%20Version).zip">Tale of the Cave (Famicom Version)</a></strong></th>
+            <th>2018 / 09 / 26</th>
+            <th>0B</th>
+            <th>Wong Chung Bang (David Newton), 2007</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iuD8m">
+            <th><strong><a href="?item=iuD8m">2 Souls, 1 Mind</a></strong></th>
+            <th><strong><a href="./新模式%203/2018/2%20Souls%2C%201%20Mind%20(Famicom%20Version).zip">2 Souls, 1 Mind (Famicom Version)</a></strong></th>
+            <th>2018 / 11 / 04</th>
+            <th>07</th>
+            <th>Wong Chung Bang (David Newton), 2007</th>
+            <th>Eichenwalde (Overwatch, 2016)</th>
+          </tr>
+          <tr id="i">
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="iWxl0">
+            <th><strong><a href="?item=iWxl0">Bonetrip</a></strong></th>
+            <th><strong><a href="./新模式%203/2019/Bonetrip%20(Famicom%20Version).zip">Bonetrip (Famicom Version)</a></strong></th>
+            <th>2019 / 01 / 02</th>
+            <th>04</th>
+            <th>nikO, 1999?</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="it4A2">
+            <th><strong><a href="?item=it4A2">Lunar Flight</a></strong></th>
+            <th><strong><a href="./新模式%203/2019/Lunar%20Flight%20(Famicom%20Version).zip">Lunar Flight (Famicom Version)</a></strong></th>
+            <th>2019 / 02 / 09</th>
+            <th>04</th>
+            <th>YAZ, 1999</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr id="i">
+            <th><strong><a href="?item=i"></a></strong></th>
+            <th><strong><a href="./.zip"></a></strong></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>&nbsp;</th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <script type="text/javascript">
+      layer.open({
+      title: '全局公告',
+      shadeClose: false,
+      type: '0',
+      content: '部分访客反映本站已被 Firefox 及 Chrome 标记为危险网站, 请选择忽略.<br>作者不解决此问题.'
+      });
+    </script>
+    <script type="text/javascript">
+      function getParam(paramName) {
+        paramValue = "", isFound = !1;
+        if (this.location.search.indexOf("?") == 0 && this.location.search.indexOf("=") > 1) {
+          arrSource = unescape(this.location.search).substring(1, this.location.search.length).split("&"), i = 0;
+          while (i < arrSource.length && !isFound) arrSource[i].indexOf("=") > 0 && arrSource[i].split("=")[0].toLowerCase() == paramName.toLowerCase() && (paramValue = arrSource[i].split("=")[1], isFound = !0), i++
+        }
+        return paramValue == "" && (paramValue = null), paramValue
+      }
+      var item = getParam("item");
+      document.getElementById(item).setAttribute("bgColor","#61b7af");
+      document.getElementById(item).scrollIntoView();
+    </script>
+  </body>
+</html>
