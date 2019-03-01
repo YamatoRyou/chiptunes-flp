@@ -3,4 +3,4 @@
 原地址 http://fuckcjmarketing.com/FL/chiptunes_flp/list.html 中的网页将于 2019 年 5 月 10 日起下线.  
 工程列表: https://yamatoryou.github.io/chiptunes/list.html  
   
-2A03 预置 for FL Studio 亦将迁移到 GitHub.
+2A03 预置 for FL Studio 帮助文档亦将迁移到 GitHub, 同时正式开放预置组套的下载.
