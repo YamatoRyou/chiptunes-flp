@@ -10,10 +10,11 @@
 * 工程为 zip 格式文件, 打开方式及 FL Studio 版本要求见工程列表顶部.  
 * 工程文件及附加的素材严禁用于任何商业行为.  
 
+# 关于本项目
 
 ## 其它:  
 * 工程列表使用了 Layui, 项目主页: https://www.layui.com  
-* 2A03 预置 for FL Studio 帮助文档现已迁移到 GitHub, 项目主页https://yamatoryou.github.io/2a03presetsforflstudio/help/2a03presetsforflstudio.html, 预置组套将择期上传.  
+* 2A03 预置 for FL Studio 帮助文档现已迁移到 GitHub, 项目主页: https://yamatoryou.github.io/2a03presetsforflstudio/help/2a03presetsforflstudio.html, 预置组套将择期上传.  
 
 # 更新  
 ## 更新规则:  
@@ -21,7 +22,7 @@
 
 ## 历史  
 * 2019 / 03 / 17:  
-上传 / 创建Rule the World (Famicom Version)  
+上传 / 创建 Rule the World (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 03 / 17)  
 原作者: David Newton (Wong Chung Bang), 2007  
 试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=742301  
