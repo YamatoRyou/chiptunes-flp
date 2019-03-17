@@ -11,6 +11,6 @@ P.S.:
 # 更新历史  
 2019 / 03 / 17:  
 上传工程 "Rule the World (Famicom Version)"  
-版本标识: 04 (最后修改于 2019 / 03 / 17)
+版本标识: 04 (最后修改于 2019 / 03 / 17)  
 原作者: David Newton (Wong Chung Bang), 2007  
 试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=742301  
