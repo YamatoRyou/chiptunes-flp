@@ -12,7 +12,7 @@
 
 ## 其它:  
 * 工程列表使用了 Layui, 项目主页: https://www.layui.com  
-* 2A03 预置 for FL Studio 帮助文档亦将迁移到 GitHub, 预置组套下载将于不久后开放.  
+* 2A03 预置 for FL Studio 帮助文档现已迁移到 GitHub, 项目主页https://yamatoryou.github.io/2a03presetsforflstudio/help/2a03presetsforflstudio.html, 预置组套将择期上传.  
 
 # 更新  
 ## 更新规则:  
