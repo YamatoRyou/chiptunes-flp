@@ -22,10 +22,10 @@
 * 2019 / 03 / 17:  
 更新 Rule the World (Famicom Version)  
 版本标识: 05 (最后修改于 2019 / 03 / 18)  
-更新内容:
+更新内容:  
 延音完善;  
-Lead #1 音色更换;
-改善末尾变速;
+Lead #1 音色更换;  
+改善末尾变速;  
 原作者: David Newton (Wong Chung Bang), 2007  
 试听地址: 暂缺  
 
