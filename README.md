@@ -20,6 +20,12 @@
 
 ## 历史  
 * 2019 / 03 / 17:  
+更新 Rule the World (Famicom Version)  
+版本标识: 05 (最后修改于 2019 / 03 / 18)  
+原作者: David Newton (Wong Chung Bang), 2007  
+试听地址: 暂缺  
+
+* 2019 / 03 / 17:  
 上传 / 创建 Rule the World (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 03 / 17)  
 原作者: David Newton (Wong Chung Bang), 2007  
