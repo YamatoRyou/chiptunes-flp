@@ -1,7 +1,7 @@
 # 关于本项目
 ## 红白机风格 Chiptune FL Studio 工程 (FL Studio 11.x)  
 * 本项目用于存放个人使用 FL Studio 制作的 Chiptunes.  
-* 访客可随意下载本项目中的工程文件, 但为确保唯一, 请不要 Fork 本项目.  
+* 访客可随意下载本项目中的工程文件, 但为确保唯一, 请不要 Clone 本项目.  
 * 原地址 http://fuckcjmarketing.com/FL/chiptunes_flp/list.html 中的网页已停止更新, 并将于 2019 年 5 月 10 日起下线.  
 * 工程列表: https://yamatoryou.github.io/chiptunes-flp/list.html  
 * 工程试听: 
