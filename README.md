@@ -11,6 +11,8 @@
 * 工程为 zip 格式文件, 打开方式及 FL Studio 版本要求见工程列表顶部.  
 * 工程文件及附加的素材严禁用于任何商业行为.  
 
+![avatar](https://licensebuttons.net/l/by-nc-sa/3.0/cn/88x31.png)
+
 ## 导出指南  
 * 导出时务必选中 "禁止最大复音数 (Disable maximum polyphony)".  
 * 对于无法裁剪采样末尾的工程 (如 Freeze-Dried (Famicom Version)), 循环模式请务必更换为 "剪切多余 (Cut remainder)".  
