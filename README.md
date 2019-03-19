@@ -11,6 +11,11 @@
 * 工程为 zip 格式文件, 打开方式及 FL Studio 版本要求见工程列表顶部.  
 * 工程文件及附加的素材严禁用于任何商业行为.  
 
+## 导出指南  
+* 导出时务必选中 "禁止最大复音数 (Disable maximum polyphony)".  
+* 对于无法裁剪采样末尾的工程 (如 Freeze-Dried (Famicom Version)), 循环模式请务必更换为 "剪切多余 (Cut remainder)".  
+* 导出时重采样选择 6 点 Hermite, 既能保证音质足够, 也可以缩短导出耗时.  
+
 ## 其它:  
 * 工程列表使用了 Layui, 项目主页: https://www.layui.com  
 * 2A03 预置 for FL Studio 帮助文档现已迁移到 GitHub, 项目主页: https://yamatoryou.github.io/2a03presetsforflstudio/help/2a03presetsforflstudio.html, 预置组套将择期上传.  
