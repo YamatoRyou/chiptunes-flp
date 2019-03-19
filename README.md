@@ -1,6 +1,6 @@
 # 关于本项目
 ## 红白机风格 Chiptune FL Studio 工程  
-* 本项目用于存放自 2012 年起个人使用 FL Studio 11.1 制作的 Chiptune 风格音乐.  
+* 本项目用于存放自 2012 年起个人使用 FL Studio 11.1 制作的 Chiptune 音乐 (Famicom 风格, 模拟任天堂 Famicom 2A03 APU 音色及历史上发行的游戏卡中用于增强音频的扩展芯片的音色).  
 * 这些作品均非原创, 每个作品对应的工程文件均已尽最大努力搜集原作者信息, 但仍有少数作品原作者信息暂缺.  如有可靠的发现请在 Issues 中发布.  
 * 访客可随意下载本项目中的工程文件用于学习 FL Studio. 由于项目的特殊性, 且为确保唯一, 请勿以任何方式复制本项目.  
 * 工程列表; 原作者信息及下载: https://yamatoryou.github.io/chiptunes-flp/list.html  
