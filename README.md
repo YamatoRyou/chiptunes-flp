@@ -19,14 +19,17 @@
 * 每个 zip 文件均为相互独立的工程, 上传的工程文件会替换已上传的同路径 / 文件名的文件.  
 
 ## 历史  
+* 2019 / 03 / 19:  
+更新 Rule the World (Famicom Version)  
+版本标识: 06 (最后修改于 2019 / 03 / 19)  
+试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=742410  
+
 * 2019 / 03 / 18:  
 更新 Rule the World (Famicom Version)  
 版本标识: 05 (最后修改于 2019 / 03 / 18)  
-原作者: David Newton (Wong Chung Bang), 2007  
-试听地址: 暂缺  
+试听地址: 无效  
 
 * 2019 / 03 / 17:  
 上传 / 创建 Rule the World (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 03 / 17)  
-原作者: David Newton (Wong Chung Bang), 2007  
-试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=742301  
+试听地址: 无效  
