@@ -27,6 +27,19 @@
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
 
 ## 历史  
+* 2019 / 03 / 21
+更新 Rule the World (Famicom Version)  
+版本标识: 07 (最后修改于 2019 / 03 / 20)  
+试听地址: 暂缺  
+
+更新 Lunar Flight (Famicom Version)  
+版本标识: 04 (最后修改于 2019 / 03 / 20)  
+试听地址: 暂缺  
+
+更新 Crystal Ice Caves (Famicom Version)  
+版本标识: 03 (最后修改于 2019 / 03 / 20)  
+试听地址: 暂缺  
+
 * 2019 / 03 / 19:  
 更新 Rule the World (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 03 / 19)  
