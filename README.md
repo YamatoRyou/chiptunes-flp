@@ -9,7 +9,7 @@
 豆瓣小站 (首选更新): https://site.douban.com/YamatoRyou/  
 哔哩哔哩 (走带演示, 不定期更新): https://space.bilibili.com/359841  
 * 工程为 zip 格式文件, 打开方式及 FL Studio 版本要求见工程列表顶部.  
-![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
+* ![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
 
 ## 导出指南  
 * 导出时务必选中 "禁止最大复音数 (Disable maximum polyphony)".  
