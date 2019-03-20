@@ -34,11 +34,11 @@
 
   更新 Lunar Flight (Famicom Version)  
   版本标识: 04 (最后修改于 2019 / 03 / 20)  
-  试听地址: 暂缺  
+  试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=741103  
 
   更新 Crystal Ice Caves (Famicom Version)  
   版本标识: 03 (最后修改于 2019 / 03 / 20)  
-  试听地址: 暂缺  
+  试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=722106  
 
 * 2019 / 03 / 19:  
 更新 Rule the World (Famicom Version)  
