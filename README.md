@@ -21,7 +21,7 @@
 * 2A03 预置 for FL Studio 帮助文档现已迁移到 GitHub, 项目主页: https://yamatoryou.github.io/2a03presetsforflstudio/help/2a03presetsforflstudio.html, 预置组套将择期上传.  
 
 # 更新  
-## 规则:  
+## 规则  
 * 每个 zip 文件均为相互独立的工程 (包括衍生版本¹), 上传的工程文件会替换已上传的同路径 / 文件名的文件.  
 * 旧版本将被永久删除, 不会保留, 也不会进入其它分支. 衍生版本¹除外.  
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
