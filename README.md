@@ -30,12 +30,12 @@
 * 2019 / 03 / 30  
 更新 Rule the World (Famicom Version)  
 版本标识: 09 (最后修改于 2019 / 03 / 30)  
-试听地址: 暂缺   
+试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=742914   
 
 * 2019 / 03 / 22  
 更新 Rule the World (Famicom Version)  
 版本标识: 08 (最后修改于 2019 / 03 / 21)  
-试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=742550   
+试听地址: 无效   
 
 * 2019 / 03 / 21  
 更新 Rule the World (Famicom Version)  
