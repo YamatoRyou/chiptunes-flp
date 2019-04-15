@@ -30,7 +30,7 @@
 * 2019 / 04 / 15:  
 上传 / 创建 Deadline (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 04 / 15)  
-试听地址: 暂缺  
+试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=743531  
 
 * 2019 / 03 / 30  
 更新 Rule the World (Famicom Version)  
