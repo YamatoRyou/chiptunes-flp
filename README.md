@@ -27,6 +27,11 @@
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
 
 ## 历史  
+* 2019 / 04 / 20:  
+上传 / 创建 Pond Scunk (Famicom Version)  
+版本标识: 03 (最后修改于 2019 / 04 / 20)  
+试听地址: 暂缺  
+
 * 2019 / 04 / 15:  
 上传 / 创建 Deadline (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 04 / 15)  
