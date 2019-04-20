@@ -30,7 +30,7 @@
 * 2019 / 04 / 20:  
 上传 / 创建 Pond Scunk (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 04 / 20)  
-试听地址: 暂缺  
+试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=743761  
 
 * 2019 / 04 / 15:  
 上传 / 创建 Deadline (Famicom Version)  
