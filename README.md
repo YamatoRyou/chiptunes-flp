@@ -34,13 +34,13 @@
 版本标识: 05 (最后修改于 2019 / 04 / 23)  
 试听地址: 暂缺  
 
-更新 Deadline (Famicom Version)  
-版本标识: 04 (最后修改于 2019 / 04 / 25)  
-试听地址: 暂缺  
+  更新 Deadline (Famicom Version)  
+  版本标识: 04 (最后修改于 2019 / 04 / 25)  
+  试听地址: 暂缺  
 
-更新 Tale of the Cave (Famicom Version)  
-版本标识: 0C (最后修改于 2019 / 04 / 25)  
-试听地址: 暂缺  
+  更新 Tale of the Cave (Famicom Version)  
+  版本标识: 0C (最后修改于 2019 / 04 / 25)  
+  试听地址: 暂缺  
 
 * 2019 / 04 / 22:  
 上传 / 创建 Pond Scunk (Famicom Version)  
