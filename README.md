@@ -32,7 +32,7 @@
 * 2019 / 04 / 28:  
 更新 Pond Scunk (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 04 / 27)  
-试听地址: 暂缺  
+试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744008  
 
 * 2019 / 04 / 25:  
 更新 Pond Scunk (Famicom Version)  
@@ -41,11 +41,11 @@
 
   更新 Deadline (Famicom Version)  
   版本标识: 04 (最后修改于 2019 / 04 / 25)  
-  试听地址: 暂缺  
+  试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744007  
 
   更新 Tale of the Cave (Famicom Version)  
   版本标识: 0C (最后修改于 2019 / 04 / 25)  
-  试听地址: 暂缺  
+  试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744009  
 
 * 2019 / 04 / 22:  
 上传 / 创建 Pond Scunk (Famicom Version)  
