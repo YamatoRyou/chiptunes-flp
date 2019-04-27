@@ -18,11 +18,26 @@
 * 对于无法裁剪采样末尾的工程 (如 Freeze-Dried (Famicom Version)), 循环模式请务必更换为 "剪切多余 (Cut remainder)".  
 * 导出时重采样选择 6 点 Hermite, 既能保证音质足够, 也可以缩短导出耗时.  
 
-## 其它:  
+## 其它  
 * 工程列表使用了 Layui, 项目主页: https://www.layui.com  
 * 2A03 预置 for FL Studio 帮助文档现已迁移到 GitHub, 项目主页: https://yamatoryou.github.io/2a03presetsforflstudio/help/2a03presetsforflstudio.html, 预置组套将择期上传.  
 
-# 更新  
+# 工程解读  
+## 所有工程使用以下 FL Studio 内置插件  
+* Sytrus (模拟 2A03 芯片中的 12.5% 矩形波 / 25% 矩形波 / 50% 方波 / 75% 矩形波 / 三角波 / Short Cycle 类型噪波)  
+* FPC / DirectWave (加载 DPCM 采样, 有时会随工程需要将采样变调或定义循环区域)  
+* Patcher (除 Sytrus 外, Patcher 将以下插件置入以模拟 Long Cycle 类型噪波)
+Effector (模拟 2A03 芯片中的噪波, Long Cycle 类型)  
+Fruity WaveShaper (二值化并最大化 Long Cycle 类型噪波)  
+Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)  
+* Fruity Parametric EQ 2 (去除不需要的低频部分, 仅限部分工程使用)  
+* Fruity Compressor (最大化整首歌曲的响度)  
+* Wave Candy (监视声谱图, 不影响歌曲的最终效果)  
+
+## 播放列表布局  
+* 除 "旧模式" 文件夹中的工程, 其余工程一律遵循与 FamiTracker 相似的视图.  
+
+# 工程文件更新  
 ## 规则  
 * 每个 zip 文件均为相互独立的工程 (包括衍生版本¹), 上传的工程文件会替换已上传的同路径 / 文件名的文件.  
 * 旧版本将被永久删除, 不会保留, 也不会进入其它分支. 衍生版本¹除外.  
@@ -100,4 +115,5 @@
 版本标识: 04 (最后修改于 2019 / 03 / 17)  
 试听地址: 无效  
 
-* 项目迁移完毕.  
+* 2019 / 03 / 01:  
+项目迁移完毕.  
