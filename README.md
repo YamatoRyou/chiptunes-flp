@@ -23,6 +23,11 @@
 * 2A03 预置 for FL Studio 帮助文档现已迁移到 GitHub, 项目主页: https://yamatoryou.github.io/2a03presetsforflstudio/help/2a03presetsforflstudio.html, 预置组套将择期上传.  
 
 # 工程解读  
+## 歌曲风格的倾向性  
+* 接近原曲  
+* 接近 Famicom 风格  
+* 试验目的, 用于测试音色  
+
 ## 所有工程使用以下 FL Studio 内置插件  
 * Sytrus (模拟 2A03 芯片中的 12.5% 矩形波 / 25% 矩形波 / 50% 方波 / 75% 矩形波 / 三角波 / Short Cycle 类型噪波)  
 * FPC / DirectWave (加载 DPCM 采样, 有时会随工程需要将采样变调或定义循环区域)  
@@ -36,6 +41,13 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 
 ## 播放列表布局  
 * 除 "旧模式" 文件夹中的工程, 其余工程一律遵循与 FamiTracker 相似的视图.  
+* "新模式 3" 文件夹中的工程已将参数事件独立到 1 个样式以便重复利用.
+
+## 模拟多台机器同时播放  
+* 相当一部分工程不满足于只使用 1 台 Famicom 的通道配置 (即 1 颗 2A03 芯片 + 若干扩展芯片), 因此这些工程会在播放列表中出现多条 DPCM 通道甚至重复出现扩展芯片等模拟多路工作的行为.  
+
+## 音符音高; 力度等属性滑行  
+* 在 FL Studio 中无法完美模拟不精确的滑行路径, 这似乎取决于工程 BPM 或 PPQ 设置.  
 
 # 工程文件更新  
 ## 规则  
