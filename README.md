@@ -68,7 +68,7 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
 
 ## 历史  
-* 2019 / 06 / 09
+* 2019 / 06 / 09  
 上传 / 创建 Transglobal (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 06 / 09)  
 试听地址: 无效  
