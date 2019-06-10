@@ -69,9 +69,14 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 
 ## 历史  
 * 2019 / 06 / 09  
+更新 Transglobal (Famicom Version)  
+版本标识: 04 (最后修改于 2019 / 06 / 11)  
+试听地址: 暂缺  
+
+* 2019 / 06 / 09  
 上传 / 创建 Transglobal (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 06 / 09)  
-试听地址: 暂缺  
+试听地址: 无效  
 
 * 2019 / 04 / 28:  
 更新 Pond Scunk (Famicom Version)  
