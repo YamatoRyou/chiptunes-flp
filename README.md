@@ -14,7 +14,7 @@
 原地址 http://fuckcjmarketing.com/FL/chiptunes_flp/list.html 中的网页已于 2019 年 5 月 10 日下线.  
 
 ## 导出指南  
-* 导出时务必选中 "禁止最大复音数 (Disable maximum polyphony)".  
+* 导出时务必取消选中 "禁止最大复音数 (Disable maximum polyphony)".  
 * 对于无法裁剪采样末尾的工程 (如 Freeze-Dried (Famicom Version)), 循环模式请务必更换为 "剪切多余 (Cut remainder)".  
 * 导出时重采样选择 6 点 Hermite, 既能保证音质足够, 也可以缩短导出耗时.  
 
