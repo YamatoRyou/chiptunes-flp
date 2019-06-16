@@ -79,7 +79,7 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 * 2019 / 06 / 16  
 更新 Transglobal (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 06 / 15)  
-试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744008  
+试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=746202  
 
 * 2019 / 06 / 13  
 更新 Transglobal (Famicom Version)  
