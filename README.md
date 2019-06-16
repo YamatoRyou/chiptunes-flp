@@ -115,7 +115,7 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
   试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744009  
 
 * 2019 / 04 / 22:  
-上传 / 创建 Pond Scunk (Famicom Version)  
+更新 Pond Scunk (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 04 / 21)  
 试听地址: 无效  
 
