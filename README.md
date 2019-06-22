@@ -1,3 +1,8 @@
+![avatar](http://imgsrc.baidu.com/forum/pic/item/37fddc3f8794a4c276ee02de00f41bd5af6e39ef.jpg)
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg)
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg)
+![avatar](http://imgsrc.baidu.com/forum/pic/item/8df4880a19d8bc3e5711e23f8c8ba61ea9d345a4.jpg)
+
 # 关于本项目
 ## Famicom 风格 Chiptune FL Studio 工程  
 * 本项目用于存放自 2012 年起个人使用 FL Studio 11.1 制作的 Chiptune 音乐 (Famicom 风格, 模拟任天堂 Famicom 2A03 APU 音色及历史上发行的游戏卡中用于增强音频的扩展芯片的音色).  
@@ -77,93 +82,93 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 
 ## 历史  
 * 2019 / 06 / 16  
-更新 Transglobal (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Transglobal (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 06 / 15)  
 试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=746202  
 
 * 2019 / 06 / 13  
-更新 Transglobal (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Transglobal (Famicom Version)  
 版本标识: 05 (最后修改于 2019 / 06 / 13)  
 试听地址: 无效  
 
 * 2019 / 06 / 09  
-更新 Transglobal (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Transglobal (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 06 / 11)  
 试听地址: 无效  
 
 * 2019 / 06 / 09  
-上传 / 创建 Transglobal (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Transglobal (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 06 / 09)  
 试听地址: 无效  
 
 * 2019 / 04 / 28:  
-更新 Pond Scunk (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Pond Scunk (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 04 / 27)  
 试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744008  
 
 * 2019 / 04 / 25:  
-更新 Pond Scunk (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Pond Scunk (Famicom Version)  
 版本标识: 05 (最后修改于 2019 / 04 / 23)  
 试听地址: 无效  
 
-  更新 Deadline (Famicom Version)  
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Deadline (Famicom Version)  
   版本标识: 04 (最后修改于 2019 / 04 / 25)  
   试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744007  
 
-  更新 Tale of the Cave (Famicom Version)  
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Tale of the Cave (Famicom Version)  
   版本标识: 0C (最后修改于 2019 / 04 / 25)  
   试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744009  
 
 * 2019 / 04 / 22:  
-更新 Pond Scunk (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Pond Scunk (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 04 / 21)  
 试听地址: 无效  
 
 * 2019 / 04 / 20:  
-上传 / 创建 Pond Scunk (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Pond Scunk (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 04 / 20)  
 试听地址: 无效  
 
 * 2019 / 04 / 15:  
-上传 / 创建 Deadline (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Deadline (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 04 / 15)  
 试听地址: 无效  
 
 * 2019 / 03 / 30  
-更新 Rule the World (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Rule the World (Famicom Version)  
 版本标识: 09 (最后修改于 2019 / 03 / 30)  
 试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=742914   
 
 * 2019 / 03 / 22  
-更新 Rule the World (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Rule the World (Famicom Version)  
 版本标识: 08 (最后修改于 2019 / 03 / 21)  
 试听地址: 无效   
 
 * 2019 / 03 / 21  
-更新 Rule the World (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Rule the World (Famicom Version)  
 版本标识: 07 (最后修改于 2019 / 03 / 20)  
 试听地址: 无效  
 
-  更新 Lunar Flight (Famicom Version)  
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Lunar Flight (Famicom Version)  
   版本标识: 04 (最后修改于 2019 / 03 / 20)  
   试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=741103  
 
-  更新 Crystal Ice Caves (Famicom Version)  
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Crystal Ice Caves (Famicom Version)  
   版本标识: 03 (最后修改于 2019 / 03 / 20)  
   试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=722106  
 
 * 2019 / 03 / 19:  
-更新 Rule the World (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Rule the World (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 03 / 19)  
 试听地址: 无效  
 
 * 2019 / 03 / 18:  
-更新 Rule the World (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Rule the World (Famicom Version)  
 版本标识: 05 (最后修改于 2019 / 03 / 18)  
 试听地址: 无效  
 
 * 2019 / 03 / 17:  
-上传 / 创建 Rule the World (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Rule the World (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 03 / 17)  
 试听地址: 无效  
 
