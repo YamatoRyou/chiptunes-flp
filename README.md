@@ -88,6 +88,7 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 更新内容:  
 样式 76 (位于音轨 FDS #7, 进度 0E) 乐谱改善;  
 通道 12 (guitar lead, Sytrus) 滤波 2 音量包络改善;  
+通道 10 (DPCM 2, DirectWave) 采样 "{BAB05A46-5746-4A79-AC5E-CBA720DA02E5}_DMC" 的音量减小到 -28.0 dB;  
 主控全局增益 +0.5 dB.  
 试听地址: 暂缺  
 
