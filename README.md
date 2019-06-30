@@ -90,12 +90,12 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 通道 12 (guitar lead, Sytrus) 滤波 2 音量包络改善;  
 通道 10 (DPCM 2, DirectWave) 采样 "{BAB05A46-5746-4A79-AC5E-CBA720DA02E5}_DMC" 的音量减小到 -28.0 dB;  
 混音器主控全局增益 +0.5 dB.  
-试听地址: 暂缺  
+试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=746742  
 
 * 2019 / 06 / 16  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Transglobal (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 06 / 15)  
-试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=746202  
+试听地址: 无效  
 
 * 2019 / 06 / 13  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Transglobal (Famicom Version)  
