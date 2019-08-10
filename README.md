@@ -83,7 +83,7 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 
 ## 历史  
 * 2019 / 08 / 11  
-![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) With My Unblinking Eye (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) With My Unblinking Eye (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 08 / 11)  
 试听地址: https://site.douban.com/YamatoRyou/?s=748025  
 
