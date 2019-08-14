@@ -87,10 +87,15 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
 
 ## 历史  
+* 2019 / 08 / 15  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) With My Unblinking Eye (Famicom Version)  
+版本标识: 06 (最后修改于 2019 / 08 / 15)  
+试听地址: https://site.douban.com/YamatoRyou/?s=748140  
+
 * 2019 / 08 / 12  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) With My Unblinking Eye (Famicom Version)  
 版本标识: 05 (最后修改于 2019 / 08 / 12)  
-试听地址: https://site.douban.com/YamatoRyou/?s=748073  
+试听地址: 无效  
 
 * 2019 / 08 / 11  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) With My Unblinking Eye (Famicom Version)  
