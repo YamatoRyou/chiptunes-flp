@@ -10,6 +10,7 @@
 * 访客可随意下载本项目中的工程文件用于学习 FL Studio. 由于项目的特殊性, 且为确保唯一, 请勿以任何方式复制或克隆本项目. 请注意: 开源并不代表放弃这些文档的所有权, 数字签名是唯一保障.  
 * 工程为 zip 格式文件, 打开方式及 FL Studio 版本要求见工程列表顶部.  
 * 本项目最早起始于 2010 年, 但早于 2012 年的作品不会在本项目中展示.  
+* 本项目使用的音色预置及相关工具现已重新整理, 项目地址: https://github.com/YamatoRyou/2a03presetsforflstudio  
 * ![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
 
 ## 试听与下载  
