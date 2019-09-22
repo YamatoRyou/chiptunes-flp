@@ -87,10 +87,15 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
 
 ## 历史  
+* 2019 / 09 / 22  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Dragonfly (Famicom Version)  
+版本标识: 04 (最后修改于 2019 / 09 / 20)  
+试听地址: https://site.douban.com/YamatoRyou/?s=749854  
+
 * 2019 / 09 / 19  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Dragonfly (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 09 / 19)  
-试听地址: https://site.douban.com/YamatoRyou/?s=749711  
+试听地址: 无效  
 
 * 2019 / 08 / 23  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) With My Unblinking Eye (Famicom Version)  
