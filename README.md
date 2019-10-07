@@ -86,6 +86,9 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
 
 ## 历史  
+**试听地址随工程文件更新, 且只保留最后有效的一个.**  
+
+
 * 2019 / 10 / 08  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Be More Than Just a Number (Famicom Version)  
 版本标识: 04 (最后修改于 2019 / 10 / 07)  
