@@ -96,7 +96,7 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 * 2019 / 10 / 10  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Be More Than Just a Number (Famicom Version)  
 版本标识: 06 (最后修改于 2019 / 10 / 10)  
-试听地址: https://site.douban.com/YamatoRyou/?s=750750  
+试听地址: 无效  
 
 * 2019 / 10 / 08  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Be More Than Just a Number (Famicom Version)  
