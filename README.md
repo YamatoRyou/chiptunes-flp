@@ -89,7 +89,7 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
 * 2019 / 12 / 26  
-![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) What's the Catch? (Famicom Version)
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) What's the Catch? (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 12 / 26)  
 试听地址: https://site.douban.com/YamatoRyou/?s=753243  
 
