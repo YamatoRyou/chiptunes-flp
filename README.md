@@ -82,16 +82,21 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 # 工程文件更新  
 ## 规则  
 * 每个 zip 文件均为相互独立的工程 (包括衍生版本¹), 上传的工程文件会替换已上传的同路径 / 文件名的文件.  
-* 旧版本将被永久删除, 不会保留, 也不会进入其它分支. 衍生版本¹除外.  
+* 被替换的旧版本将被永久删除, 不会保留, 也不会进入其它分支. 衍生版本¹除外.  
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
 
 ## 历史  
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
 * 2019 / 12 / 26  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) What's the Catch? (Famicom Version)  
+版本标识: 04 (最后修改于 2019 / 12 / 27)  
+试听地址: https://site.douban.com/YamatoRyou/?s=753271  
+
+* 2019 / 12 / 26  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) What's the Catch? (Famicom Version)  
 版本标识: 03 (最后修改于 2019 / 12 / 26)  
-试听地址: https://site.douban.com/YamatoRyou/?s=753243  
+试听地址: 无效  
 
   ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Bastion (Famicom Version)  
   版本标识: 07 (最后修改于 2019 / 12 / 26)  
