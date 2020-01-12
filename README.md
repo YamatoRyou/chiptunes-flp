@@ -39,7 +39,7 @@
 * 试验目的, 用于测试音色  
 * 单纯的自我取悦  
 
-## 所有工程使用以下 FL Studio 内置插件  
+## 工程使用以下 FL Studio 内置插件  
 * Sytrus (模拟 2A03 芯片中的 12.5% 矩形波 / 25% 矩形波 / 50% 方波 / 75% 矩形波 / 三角波 / Short Cycle 类型噪波 / Namco 163 / 任天堂 FDS (RP2C33))  
 由于 Konami VRC6 芯片中的波形可以被 N163 包括, 因此后续工程几乎不再模拟此芯片.  
 由于 SUN5B (FME7) 芯片中的波形可以被 2A03 或 N163 包括, 因此后续工程几乎不再模拟此芯片.  
@@ -52,6 +52,12 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 * Fruity Parametric EQ 2 (去除不需要的低频部分, 仅限部分工程使用)  
 * Fruity Compressor (最大化整首歌曲的响度)  
 * Wave Candy (监视声谱图, 不影响歌曲的最终效果)  
+
+## 已于近期放弃使用的 FL Studio 内置插件  
+* FPC (采样向下变调丢失高频; 不支持循环点)  
+* Effector (Bug)  
+* Fruity WaveShaper (无法量化相位导致模拟波表音色效果差)  
+* Fruity Envolope Controller (疑似 Bug, 内部包络触发始终晚于音符触发)  
 
 ## 播放列表布局  
 * 除 "旧模式" 文件夹中的工程, 其余工程一律遵循与 FamiTracker 相似的视图.  
