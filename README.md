@@ -93,6 +93,13 @@ Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)
 
 ## 历史  
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
+
+
+* 2020 / 01 / 21  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Feeling Irresistible (Famicom Version)  
+版本标识: 03 (最后修改于 2020 / 01 / 21)  
+试听地址: https://site.douban.com/YamatoRyou/?s=753345  
+
 * 2019 / 12 / 31  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) What's the Catch? (Famicom Version)  
 版本标识: 05 (最后修改于 2019 / 12 / 30)  
