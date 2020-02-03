@@ -7,7 +7,7 @@
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
 * 2020 / 02 / 03  
-![avatar]![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) 五反田の光 (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) 五反田の光 (Famicom Version)  
 版本标识: 03 (最后修改于 2020 / 02 / 03)  
 试听地址: https://site.douban.com/YamatoRyou/?s=754499  
 
