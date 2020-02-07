@@ -8,8 +8,13 @@
 
 * 2020 / 02 / 04  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) 五反田の光 (Famicom Version)  
+版本标识: 05 (最后修改于 2020 / 02 / 05)  
+试听地址: https://site.douban.com/YamatoRyou/?s=754579  
+
+* 2020 / 02 / 04  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) 五反田の光 (Famicom Version)  
 版本标识: 04 (最后修改于 2020 / 02 / 04)  
-试听地址: https://site.douban.com/YamatoRyou/?s=754511  
+试听地址: 无效  
 
 * 2020 / 02 / 03  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) 五反田の光 (Famicom Version)  
