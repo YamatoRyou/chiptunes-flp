@@ -8,6 +8,18 @@
 * 本项目使用的音色预置及相关工具现已重新整理, 项目地址: https://github.com/YamatoRyou/2a03presetsforflstudio  
 * ![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
 
+## 根据知识共享协议 (Creative Commons) 规则, 仅授予访客用户以下权利:  
+* 允许下载.  
+* 允许保留数字签名, 作者及原作者信息; 未修改工程文件且非盈利性质目的的前提下二次传播.  
+* 允许提取工程文件中使用的插件预置 (FST 文件).  
+
+## 根据知识共享协议 (Creative Commons) 规则, 访客用户需遵守以下限制:  
+* 不允许提取使用工程文件引用或嵌入的采样文件 (WAV 等); 乐谱 (MIDI / FSC); 自动控制信息 (FSC)  
+* 不允许修改工程文件, 且不能将修改后的结果传播.  
+* 不允许在抹去作者及原作者信息的情况下传播.  
+
+上述限制不适用于第一; 第二原作者.  
+
 ## 试听与下载  
 * 工程试听:  
 豆瓣小站 (首选更新): https://site.douban.com/YamatoRyou/  
