@@ -8,6 +8,14 @@
 * 本项目使用的音色预置及相关工具现已重新整理, 项目地址: https://github.com/YamatoRyou/2a03presetsforflstudio  
 * ![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
 
+## The 1st or 2nd original author is here:
+* To confirm whether your work is referenced by this project, please visit https://yamatoryou.github.io/chiptunes-flp/list.html, press Ctrl + F in the webpage and type your own keywords (song name; author alias or real name).  
+* If you:  
+a) do not want one of your works to be cited in this project;  
+b) think that a project file infringes your copyright;  
+c) a project file fails to mark the necessary original author information;  
+Please feedback in Issues.  
+
 ## 根据知识共享协议 (Creative Commons) 规则, 仅授予访客用户以下权利:  
 * 允许下载.  
 * 允许保留数字签名, 作者及原作者信息; 未修改工程文件且非盈利性质目的的前提下二次传播.  
