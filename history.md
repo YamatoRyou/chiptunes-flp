@@ -6,11 +6,15 @@
 ## 更新历史  
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
+* 2020 / 02 / 12  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) The Man in the Iron Mask (Famicom Version)  
+版本标识: 04 (最后修改于 2020 / 02 / 12)  
+试听地址: https://site.douban.com/YamatoRyou/?s=754702  
+
 * 2020 / 02 / 10  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) 五反田の光 (Famicom Version)  
 版本标识: 06 (最后修改于 2020 / 02 / 09)  
 试听地址: https://site.douban.com/YamatoRyou/?s=754674  
-
 
 * 2020 / 02 / 07  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) 五反田の光 (Famicom Version)  
