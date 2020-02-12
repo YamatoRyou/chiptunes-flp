@@ -55,15 +55,15 @@ Please feedback in Issues.
 * 单纯的自我取悦  
 
 ## 工程使用以下 FL Studio 内置插件  
-* Sytrus (模拟 2A03 芯片中的 12.5% 矩形波 / 25% 矩形波 / 50% 方波 / 75% 矩形波 / 三角波 / Short Cycle 类型噪波 / Namco 163 / 任天堂 FDS (RP2C33))  
+* Sytrus (模拟 2A03 芯片中的 12.5% 矩形波 / 25% 矩形波 / 50% 方波 / 75% 矩形波 / 三角波 / Short Cycle 类型噪波 / Namco 163 / 任天堂 FDS (RP2C33) / Konami VRC7)  
 由于 Konami VRC6 芯片中的波形可以被 N163 包括, 因此后续工程几乎不再模拟此芯片.  
 由于 SUN5B (FME7) 芯片中的波形可以被 2A03 或 N163 包括, 因此后续工程几乎不再模拟此芯片.  
-* Fruity DX10 (模拟 Konami VRC7 芯片 FM)  
-* FPC / DirectWave (加载 DPCM 采样, 有时会随工程需要将采样变调或定义循环区域)  
+* Fruity DX10 (已放弃, 模拟 Konami VRC7 芯片 FM)  
+* FPC (已放弃) / DirectWave (加载 DPCM 采样, 有时会随工程需要将采样变调或定义循环区域)  
 * Patcher (除 Sytrus 外, Patcher 将以下插件置入以模拟 Long Cycle 类型噪波)  
-Effector (模拟 2A03 芯片中的噪波, Long Cycle 类型)  
-Fruity WaveShaper (二值化并最大化 Long Cycle 类型噪波)  
-Fruity Envolope Controller (重映射 Long Cycle 类型噪波的音符力度)  
+Effector (已放弃, 模拟 2A03 芯片中的噪波, Long Cycle 类型)  
+Fruity WaveShaper (已放弃, 二值化并最大化 Long Cycle 类型噪波)  
+Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音符力度)  
 * Fruity Parametric EQ 2 (去除不需要的低频部分, 仅限部分工程使用)  
 * Fruity Compressor (最大化整首歌曲的响度)  
 * Wave Candy (监视声谱图, 不影响歌曲的最终效果)  
