@@ -6,6 +6,19 @@
 ## 更新历史  
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
+* 2020 / 02 / 25  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Memory of Babylon (Famicom Version)  
+版本标识: 03 (最后修改于 2020 / 02 / 25)  
+试听地址: https://site.douban.com/YamatoRyou/?s=755081  
+
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Tale of the Cave (Famicom Version)  
+  版本标识: 0D (最后修改于 2020 / 02 / 21)  
+  试听地址: https://site.douban.com/YamatoRyou/?s=755082  
+
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) 五反田の光 (Famicom Version)  
+  版本标识: 07 (最后修改于 2020 / 02 / 25)  
+  试听地址: https://site.douban.com/YamatoRyou/?s=755083  
+
 * 2020 / 02 / 19  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) The Man in the Iron Mask (Famicom Version)  
 版本标识: 06 (最后修改于 2020 / 02 / 16)  
