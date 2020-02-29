@@ -15,7 +15,7 @@
 * 2020 / 02 / 25  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Memory of Babylon (Famicom Version)  
 版本标识: 03 (最后修改于 2020 / 02 / 25)  
-试听地址: https://site.douban.com/YamatoRyou/?s=755081  
+试听地址: 无效  
 
   ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Tale of the Cave (Famicom Version)  
   版本标识: 0D (最后修改于 2020 / 02 / 21)  
@@ -43,7 +43,7 @@
 * 2020 / 02 / 10  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) 五反田の光 (Famicom Version)  
 版本标识: 06 (最后修改于 2020 / 02 / 09)  
-试听地址: https://site.douban.com/YamatoRyou/?s=754674  
+试听地址: 无效  
 
 * 2020 / 02 / 07  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) 五反田の光 (Famicom Version)  
@@ -209,7 +209,7 @@
 
   ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Tale of the Cave (Famicom Version)  
   版本标识: 0C (最后修改于 2019 / 04 / 25)  
-  试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=744009  
+  试听地址: 无效  
 
 * 2019 / 04 / 22:  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Pond Scunk (Famicom Version)  
