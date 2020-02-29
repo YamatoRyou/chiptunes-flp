@@ -73,7 +73,7 @@ Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音�
 * Effector (Bug)  
 * Fruity WaveShaper (无法量化相位导致模拟波表音色效果差)  
 * Fruity Envolope Controller (疑似 Bug, 内部包络触发始终晚于音符触发)  
-* Fruity DX10 (被 Sytrus 替代)
+* Fruity DX10 (自由度低, 被 Sytrus 替代)
 
 ## 播放列表布局  
 * 除 "旧模式" 文件夹中的工程, 其余工程一律遵循与 FamiTracker 相似的视图.  
