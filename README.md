@@ -65,7 +65,7 @@ Effector (已放弃, 模拟 2A03 芯片中的噪波, Long Cycle 类型)
 Fruity WaveShaper (已放弃, 二值化并最大化 Long Cycle 类型噪波)  
 Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音符力度)  
 * Fruity Parametric EQ 2 (去除不需要的低频部分, 仅限部分工程使用)  
-* Fruity Compressor (最大化整首歌曲的响度)  
+* Fruity Limiter (最大化整首歌曲的响度)  
 * Wave Candy (监视声谱图, 不影响歌曲的最终效果)  
 
 ## 已于近期放弃使用的 FL Studio 内置插件  
@@ -73,7 +73,8 @@ Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音�
 * Effector (Bug)  
 * Fruity WaveShaper (无法量化相位导致模拟波表音色效果差)  
 * Fruity Envolope Controller (疑似 Bug, 内部包络触发始终晚于音符触发)  
-* Fruity DX10 (自由度低, 被 Sytrus 替代)
+* Fruity DX10 (自由度低, 被 Sytrus 取代)
+* Fruity Compressor (已被 Fruity Limiter 取代)  
 
 ## 播放列表布局  
 * 除 "旧模式" 文件夹中的工程, 其余工程一律遵循与 FamiTracker 相似的视图.  
