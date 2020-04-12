@@ -6,7 +6,7 @@
 * 工程为 zip 格式文件, 打开方式及 FL Studio 版本要求见工程列表顶部.  
 * 本项目最早起始于 2010 年, 但早于 2012 年的作品不会在本项目中展示.  
 * 本项目使用的音色预置及相关工具现已重新整理, 项目地址: https://github.com/YamatoRyou/2a03presetsforflstudio  
-* ![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
+* 本项目已正式引入许可: ![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
 
 ## The 1st or 2nd original author is here:
 * To confirm whether your work is referenced by this project, please visit https://yamatoryou.github.io/chiptunes-flp/list.html, press Ctrl + F in the webpage and type your own keywords (song name; author alias or real name).  
@@ -106,5 +106,7 @@ Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音�
 ## 规则  
 * 每个 zip 文件均为相互独立的工程 (包括衍生版本¹), 上传的工程文件会替换已上传的同路径 / 文件名的文件.  
 * 被替换的旧版本将被永久删除, 不会保留, 也不会进入其它分支. 衍生版本¹除外.  
-¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)
-* 更新历史已迁移到 https://github.com/YamatoRyou/chiptunes-flp/blob/master/history.md
+¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)  
+
+## 历史  
+* 详见 https://github.com/YamatoRyou/chiptunes-flp/blob/master/history.md
