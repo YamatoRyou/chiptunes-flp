@@ -6,10 +6,15 @@
 ## 更新历史  
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
+* 2020 / 04 / 13  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Sideway Street (Famicom Version)  
+版本标识: 04 (最后修改于 2020 / 04 / 13)  
+试听地址: https://site.douban.com/YamatoRyou/?s=756786  
+
 * 2020 / 04 / 10  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Sideway Street (Famicom Version)  
 版本标识: 03 (最后修改于 2020 / 04 / 10)  
-试听地址: https://site.douban.com/YamatoRyou/?s=756679  
+试听地址: 无效  
 
   ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Memory of Babylon (Famicom Version)  
   版本标识: 05 (最后修改于 2020 / 04 / 10)  
