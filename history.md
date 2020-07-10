@@ -9,7 +9,7 @@
 * 2020 / 07 / 10  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Memory of Babylon (Famicom Version)  
 版本标识: 06 (最后修改于 2020 / 07 / 09)  
-试听地址: https://site.douban.com/YamatoRyou/?s=759379  
+试听地址: https://site.douban.com/YamatoRyou/?s=759380  
 
 * 2020 / 06 / 25  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) I am Not a Robot (Famicom Version)  
