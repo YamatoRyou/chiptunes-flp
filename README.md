@@ -44,7 +44,7 @@ Please feedback in Issues.
 * 工程列表使用了 Layui, 项目主页: https://www.layui.com  
 
 ## 工程数字签名 (相关信息仅在 Windows 下可见):  
-* 2  
+* 1  
 N/A  
 * 2  
 证书序列号: 7c 41 92 ad 50 8c 6d b5 4d 13 74 3d 00 bf 54 cc  
