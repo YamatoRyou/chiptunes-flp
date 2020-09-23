@@ -12,7 +12,7 @@
 试听地址: https://site.douban.com/YamatoRyou/?s=760771  
 
   ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Sideway Street (Famicom Version)  
-  版本标识: 05 (最后修改于 2020 / 09 / 14  
+  版本标识: 05 (最后修改于 2020 / 09 / 14)  
   试听地址: https://site.douban.com/YamatoRyou/?s=760770  
 
 * 2020 / 07 / 18  
