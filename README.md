@@ -42,7 +42,11 @@ Please feedback in Issues.
 
 ## 其它  
 * 工程列表使用了 Layui, 项目主页: https://www.layui.com  
-* 工程数字签名 (相关信息仅在 Windows 下可见):  
+
+## 工程数字签名 (相关信息仅在 Windows 下可见):  
+* 2  
+N/A  
+* 2  
 证书序列号: 7c 41 92 ad 50 8c 6d b5 4d 13 74 3d 00 bf 54 cc  
 证书指纹: c0 1f 2e 77 c1 3d 39 f4 2b 76 77 80 96 30 78 a1 f9 aa be 63  
 对应上述唯一信息的证书于 2020 年 10 月 3 日过期.
