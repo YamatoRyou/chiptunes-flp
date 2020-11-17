@@ -6,6 +6,11 @@
 ## 更新历史  
 **试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
+* 2020 / 11 / 17  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Pioneer (Famicom Version)  
+版本标识: 06 (最后修改于 2020 / 10 / 28)  
+试听地址: https://site.douban.com/YamatoRyou/?s=761613  
+
 * 2020 / 10 / 28  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Pioneer (Famicom Version)  
 版本标识: 03 (最后修改于 2020 / 10 / 21)  
