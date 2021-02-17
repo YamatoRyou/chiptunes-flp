@@ -28,6 +28,12 @@ Please feedback in Issues.
 
 上述限制不适用于第一; 第二原作者.  
 
+## 工程文件违反知识共享协议 (Creative Commons) 规则的传播  
+* 以下是部分示例:  
+https://music.163.com/#/song?id=1465111497  
+https://music.163.com/#/song?id=1467643593  
+以上链接中的试听使用未经数字签名的工程文件生成, 且未按知识共享协议署名.  
+
 ## 试听与下载  
 * 工程试听:  
 豆瓣小站 (首选更新): https://site.douban.com/YamatoRyou/  
