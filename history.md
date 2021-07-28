@@ -5,6 +5,15 @@
 
 ## 更新历史  
 **本文档给出的试听地址随工程文件更新, 且只保留最后有效的一个.**  
+* 2021 / 07 / 29  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Transglobal (Famicom Version)  
+版本标识: 08 (最后修改于 2021 / 05 / 23)  
+试听地址: https://site.douban.com/YamatoRyou/?s=764226  
+
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Killing Time (Famicom Version)  
+  版本标识: 1.0.2 (最后修改于 2021 / 07 / 29)  
+  试听地址: https://site.douban.com/YamatoRyou/?s=764225  
+
 * 2021 / 06 / 28  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Warriors of the Dawn (Famicom Version)  
 版本标识: 1.0.3 (最后修改于 2021 / 06 / 28)  
@@ -373,7 +382,7 @@
 通道 12 (guitar lead, Sytrus) 滤波 2 音量包络改善;  
 通道 10 (DPCM 2, DirectWave) 采样 "{BAB05A46-5746-4A79-AC5E-CBA720DA02E5}_DMC" 的音量减小到 -28.0 dB;  
 混音器主控全局增益 +0.5 dB.  
-试听地址: https://site.douban.com/YamatoRyou/room/1072933/?s=746742  
+试听地址: 无效  
 
 * 2019 / 06 / 16  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Transglobal (Famicom Version)  
