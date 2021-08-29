@@ -5,6 +5,12 @@
 
 ## 更新历史  
 **本文档给出的试听地址随工程文件更新, 且只保留最后有效的一个.**  
+
+* 2021 / 08 / 29  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Warriors of the Dawn (Famicom Version)  
+版本标识: 1.0.4 (最后修改于 2021 / 08 / 29)  
+试听地址: https://site.douban.com/YamatoRyou/?s=764492  
+
 * 2021 / 08 / 24  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Geoconstruct 1998 (Famicom Version)  
 版本标识: 1.0.4 (最后修改于 2021 / 08 / 24)  
@@ -27,7 +33,7 @@
 * 2021 / 06 / 28  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Warriors of the Dawn (Famicom Version)  
 版本标识: 1.0.3 (最后修改于 2021 / 06 / 28)  
-试听地址: https://site.douban.com/YamatoRyou/?s=764026  
+试听地址: 无效  
 
 * 2021 / 06 / 26  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Warriors of the Dawn (Famicom Version)  
