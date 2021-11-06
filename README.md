@@ -47,7 +47,7 @@ https://music.163.com/#/song?id=1467643593
 * 导出时重采样选择 6 点 Hermite, 既能保证音质足够, 也可以缩短导出耗时.  
 
 ## 其它  
-* 工程列表使用了 Layui, 项目主页: https://www.layui.com  
+* 工程列表使用了 Layui, 项目主页: https://github.com/sentsin/layui  
 
 ## 工程数字签名 (相关信息仅在 Windows 下可见):  
 * 1  
