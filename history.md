@@ -6,6 +6,11 @@
 ## 更新历史  
 **本文档给出的试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
+* 2021 / 11 / 08  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Such Wow (Famicom Version)  
+版本标识: 1.0.5 (最后修改于 2021 / 11 / 08)  
+试听地址: https://site.douban.com/YamatoRyou/?s=764877  
+
 * 2021 / 11 / 06  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Funky Stars (Famicom Version 2)  
 版本标识: 1.0.6 (最后修改于 2021 / 11 / 06)  
@@ -24,7 +29,7 @@
 * 2021 / 10 / 28  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Such Wow (Famicom Version)  
 版本标识: 1.0.4 (最后修改于 2021 / 10 / 27)  
-试听地址: https://site.douban.com/YamatoRyou/?s=764769  
+试听地址: 无效  
 
 * 2021 / 10 / 26  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Such Wow (Famicom Version)  
