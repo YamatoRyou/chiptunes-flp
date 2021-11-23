@@ -69,18 +69,13 @@ https://music.163.com/#/song?id=1467643593
 ## 工程使用以下 FL Studio 内置插件  
 * Sytrus (模拟 2A03 芯片中的 12.5% 矩形波 / 25% 矩形波 / 50% 方波 / 75% 矩形波 / 三角波 / Short Cycle 类型噪波 / Namco 163 / 任天堂 FDS (RP2C33) / Konami VRC7)  
 由于 Konami VRC6 芯片中的波形可以被 N163 包括, 因此后续工程几乎不再模拟此芯片.  
-由于 SUN5B (FME7) 芯片中的波形可以被 2A03 或 N163 包括, 因此后续工程几乎不再模拟此芯片.  
-* Fruity DX10 (已放弃, 模拟 Konami VRC7 芯片 FM)  
-* FPC (已放弃) / DirectWave (加载 DPCM 采样, 有时会随工程需要将采样变调或定义循环区域)  
+由于 SUN5B (FME7) 芯片中的方波 / 矩形波可以被 2A03 或 N163 包括, 因此后续工程几乎不再模拟此芯片.  
 * Patcher (除 Sytrus 外, Patcher 将以下插件置入以模拟 Long Cycle 类型噪波)  
-Effector (已放弃, 模拟 2A03 芯片中的噪波, Long Cycle 类型)  
-Fruity WaveShaper (已放弃, 二值化并最大化 Long Cycle 类型噪波)  
-Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音符力度)  
 * Fruity Parametric EQ 2 (去除不需要的低频部分, 仅限部分工程使用)  
 * Fruity Limiter (最大化整首歌曲的响度)  
 * Wave Candy (监视声谱图, 不影响歌曲的最终效果)  
 
-## 已于近期放弃使用的 FL Studio 内置插件  
+## 已放弃使用的 FL Studio 内置插件  
 * FPC (采样向下变调丢失高频; 不支持循环点)  
 * Effector (Bug)  
 * Fruity WaveShaper (无法量化相位导致模拟波表音色效果差)  
@@ -89,7 +84,7 @@ Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音�
 * Fruity Compressor (已被 Fruity Limiter 取代)  
 
 ## 播放列表布局  
-* 除 "旧模式" 文件夹中的工程, 其余工程一律遵循与 FamiTracker 相似的视图.  
+* 除 "旧模式" 文件夹中的工程, 其余工程一律遵循与 FamiStudio 相似的视图.  
 * "新模式 3" 文件夹中的工程已将参数事件独立到 1 个样式以便重复利用.
 
 ## 模拟多台机器同时播放  
@@ -117,9 +112,9 @@ Fruity Envolope Controller (已放弃, 重映射 Long Cycle 类型噪波的音�
 # 工程文件更新  
 ## 规则  
 * 每个 zip 文件均为相互独立的工程 (包括衍生版本¹), 上传的工程文件会替换已上传的同路径 / 文件名的文件.  
-* 会不定期对部分工程文件进行修改但不影响歌曲最终效果, 此类修改不计入版本号递增, 且不会在豆瓣小站更新试听, 但会更新数字签名及时间戳签名.  
-* 自 2021 年起的工程放弃使用 8 位 16 进制递增, 改用 Windows 风格的版本号, 仅使用前 3 部分.  
 * 被替换的旧版本将被永久删除, 不会保留, 也不会进入其它分支. 衍生版本¹除外.  
+* 会不定期对部分工程文件进行修改但不影响歌曲最终效果, 此类修改不计入版本号递增, 且不会在豆瓣小站更新试听, 但会更新数字签名及时间戳签名.  
+* 自 2021 年起的工程放弃使用 8 位 16 进制递增作为版本标识, 改用 Windows 风格的版本号, 仅使用前 3 部分.  
 ¹ 诸如 2A03 BGM - Super Cyborg Area 1 (兼容版本) 与 2A03 BGM - Super Cyborg Steam Edition - Area 1 (兼容版本)  
 
 ## 历史  
