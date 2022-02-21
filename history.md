@@ -6,6 +6,11 @@
 ## 更新历史  
 **本文档给出的试听地址随工程文件更新, 且只保留最后有效的一个.**  
 
+* 2022 / 02 / 21  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) You Shall Be The One (Famicom Version)  
+版本标识: 1.0.3 (最后修改于 2022 / 02 / 21)  
+试听地址: https://site.douban.com/YamatoRyou/?s=765749  
+
 * 2022 / 01 / 26  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) ACAMiMM (Famicom Version)  
 版本标识: 1.0.2 (最后修改于 2022 / 01 / 26)  
