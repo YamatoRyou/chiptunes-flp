@@ -36,8 +36,8 @@ https://music.163.com/#/song?id=1467643593
 
 ## 试听与下载  
 * 工程试听:  
-* **豆瓣自 2022 / 04 / 27 日起更新了账号政策, 未来可能不再通过豆瓣提供试听地址.**  
 豆瓣小站 (首选更新): https://site.douban.com/YamatoRyou/  
+**豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听.**  
 哔哩哔哩 (走带演示, 不定期更新): https://space.bilibili.com/359841  
 * 工程列表; 原作者信息及下载: https://yamatoryou.github.io/chiptunes-flp/list.html  
 原地址 http://fuckcjmarketing.com/FL/chiptunes_flp/list.html 中的网页已于 2019 年 5 月 10 日下线.  
