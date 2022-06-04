@@ -1,3 +1,5 @@
+![{481A1158-B3FC-408D-0E41-B3AE78DAA7D8}](https://user-images.githubusercontent.com/48104960/171990764-a3071ed9-bf5e-4171-81db-acbc9c0bc23e.png)
+
 # 关于本项目
 ## Famicom 风格 Chiptune FL Studio 工程  
 * 本项目用于存放自 2012 年起个人使用 FL Studio 11.1 制作的 Chiptune 音乐 (Famicom 风格, 模拟任天堂 Famicom 2A03 APU 音色及历史上发行的游戏卡中用于增强音频的扩展芯片的音色).  
