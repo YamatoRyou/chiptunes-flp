@@ -9,7 +9,7 @@
 
 * 2022 / 06 / 12  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Stormbringer (Famicom Version)  
-版本标识: 1.0.5 (最后修改于 2022 / 06 / 12)  
+版本标识: 1.0.6 (最后修改于 2022 / 06 / 12)  
 试听地址: https://site.douban.com/YamatoRyou/?s=766142  
 
 * 2022 / 05 / 29  
