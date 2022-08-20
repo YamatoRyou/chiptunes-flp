@@ -7,10 +7,15 @@
 **本文档给出的试听地址随工程文件更新, 且只保留最后有效的一个.**  
 **豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听地址.**  
 
+* 2022 / 08 / 20  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) In the Stars (Famicom Version)  
+版本标识: 1.0.3 (最后修改于 2022 / 08 / 20)  
+试听地址: https://site.douban.com/YamatoRyou/?s=766364  
+
 * 2022 / 08 / 19  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) In the Stars (Famicom Version)  
 版本标识: 1.0.2 (最后修改于 2022 / 08 / 19)  
-试听地址: https://site.douban.com/YamatoRyou/?s=766362  
+试听地址: 无效  
 
   ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Sukhavati (Famicom Version)  
   版本标识: 07 (最后修改于 2022 / 08 / 09, 签名于 2022 / 08 / 19)  
