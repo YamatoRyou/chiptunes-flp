@@ -15,7 +15,7 @@
 * 2022 / 11 / 24  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Follow Me (Famicom Version)  
 版本标识: 1.0.5 (最后修改于 2022 / 11 / 24)  
-试听地址: https://site.douban.com/YamatoRyou/?s=766653  
+试听地址: 无效  
 
 * 2022 / 11 / 23  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Follow Me (Famicom Version)  
