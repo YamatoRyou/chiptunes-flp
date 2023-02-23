@@ -1,4 +1,6 @@
-![{481A1158-B3FC-408D-0E41-B3AE78DAA7D8}](https://user-images.githubusercontent.com/48104960/171990764-a3071ed9-bf5e-4171-81db-acbc9c0bc23e.png)
+![{481A1158-B3FC-408D-0E41-B3AE78DAA7D8}](https://user-images.githubusercontent.com/48104960/171990764-a3071ed9-bf5e-4171-81db-acbc9c0bc23e.png)  
+
+![avatar](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-green)
 
 # 关于本项目
 ## Famicom 风格 Chiptune FL Studio 工程  
@@ -8,7 +10,6 @@
 * 工程为 zip 格式文件, 打开方式及 FL Studio 版本要求见工程列表顶部.  
 * 本项目最早起始于 2010 年, 但早于 2012 年的作品不会在本项目中展示.  
 * 本项目使用的音色预置及相关工具现已重新整理, 项目地址: https://github.com/YamatoRyou/2a03presetsforflstudio  
-* 本项目已正式引入许可: ![avatar](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)  
 
 ## The 1st or 2nd original author is here:
 * To confirm whether your work is referenced by this project, please visit https://yamatoryou.github.io/chiptunes-flp/list.html, press Ctrl + F in the webpage and type your own keywords (song name; author alias or real name).  
