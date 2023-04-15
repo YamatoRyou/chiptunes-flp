@@ -7,11 +7,14 @@
 **本文档给出的试听地址随工程文件更新, 且只保留最后有效的一个.**  
 **豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听地址.**  
 
-
 * 2023 / 04 / 15  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Hyperdrive Motion (Famicom Version)  
-版本标识: 1.0.4 (最后修改于 2023 / 04 / 15)  
-试听地址: https://site.douban.com/YamatoRyou/?s=767159
+版本标识: 1.0.5 (最后修改于 2023 / 04 / 15)  
+试听地址: https://site.douban.com/YamatoRyou/?s=767161
+
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Hyperdrive Motion (Famicom Version)  
+  版本标识: 1.0.4 (最后修改于 2023 / 04 / 15)  
+  试听地址: 无效
 
 * 2023 / 04 / 14  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Hyperdrive Motion (Famicom Version)  
@@ -75,7 +78,7 @@
 * 2022 / 11 / 30  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Follow Me (Famicom Version)  
 版本标识: 1.0.6 (最后修改于 2022 / 11 / 30)  
-试听地址: https://site.douban.com/YamatoRyou/?s=766699  
+试听地址: https://site.douban.com/YamatoRyou/?s=767162  
 
 * 2022 / 11 / 24  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Follow Me (Famicom Version)  
