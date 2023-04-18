@@ -8,7 +8,7 @@
 **豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听地址.**  
 
 * 2023 / 04 / 18  
-![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Hyperdrive Motion (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Urgent BUT Unwanted (Famicom Version)  
 版本标识: 1.0.4 (最后修改于 2023 / 04 / 18)  
 试听地址: https://site.douban.com/YamatoRyou/?s=767166
 
