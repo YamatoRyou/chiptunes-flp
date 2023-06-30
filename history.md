@@ -9,7 +9,7 @@
 
 * 2023 / 06 / 30  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Ma Petite Fleur (Famicom Version)  
-版本标识: 1.0.4 (最后修改于 2023 / 04 / 18)  
+版本标识: 1.0.3 (最后修改于 2023 / 06 / 30)  
 试听地址: https://site.douban.com/YamatoRyou/?s=767276
 
 * 2023 / 06 / 29  
