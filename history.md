@@ -7,7 +7,7 @@
 **本文档给出的试听地址随工程文件更新, 且只保留最后有效的一个.**  
 **豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听地址.**  
 
-* 2023 / 09 / 29  
+* 2023 / 12 / 11  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Lumine (Famicom Version)  
 版本标识: 1.0.2 (最后修改于 2023 / 12 / 11)  
 试听地址: https://site.douban.com/YamatoRyou/?s=767533
