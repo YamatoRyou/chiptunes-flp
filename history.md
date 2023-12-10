@@ -10,7 +10,7 @@
 * 2023 / 12 / 11  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Lumine (Famicom Version)  
 版本标识: 1.0.2 (最后修改于 2023 / 12 / 11)  
-试听地址: https://site.douban.com/YamatoRyou/?s=767533
+试听地址: https://site.douban.com/YamatoRyou/?s=767533  
 **包括例外通道**
 
 * 2023 / 10 / 01  
