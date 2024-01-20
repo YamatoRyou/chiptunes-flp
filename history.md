@@ -8,9 +8,14 @@
 **豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听地址.**  
 
 * 2024 / 01 / 20  
-![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Frequency Shifter (Famicom Version)  
-版本标识: 1.0.2 (最后修改于 2024 / 01 / 19)  
-试听地址: https://site.douban.com/YamatoRyou/?s=767691  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Frequency Shifter (Famicom Version)  
+版本标识: 1.0.3 (最后修改于 2024 / 01 / 20)  
+试听地址: https://site.douban.com/YamatoRyou/?s=767692  
+
+  ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Frequency Shifter (Famicom Version)  
+  版本标识: 1.0.2 (最后修改于 2024 / 01 / 19)  
+  试听地址: 无效  
+
 
 * 2023 / 12 / 13  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Lumine (Famicom Version)  
