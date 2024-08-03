@@ -39,10 +39,10 @@ https://music.163.com/#/song?id=1467643593
 
 ## 试听与下载  
 * 工程试听:  
-~~豆瓣小站: https://site.douban.com/YamatoRyou/~~  
-**豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听.**  
-**目前已被豆瓣小站拒绝做任何更改, 因此豆瓣小站现已停止更新.**  
-  哔哩哔哩 (走带演示, 首选更新): https://space.bilibili.com/359841  
+  - ~~豆瓣小站: https://site.douban.com/YamatoRyou/~~  
+    **豆瓣自 2022 / 04 / 27 起更新了账号政策, 未来可能不再通过豆瓣提供试听.**  
+    **目前已被豆瓣小站拒绝做任何更改, 因此豆瓣小站现已停止更新.**  
+  - 哔哩哔哩 (走带演示, 首选更新): https://space.bilibili.com/359841  
 * 工程列表; 原作者信息及下载: https://yamatoryou.github.io/chiptunes-flp/list.html  
 
 ## 导出指南  
