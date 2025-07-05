@@ -9,12 +9,12 @@
 **本页提供的所有以 `https://site.douban.com` 开头的试听地址均已失效, 如需试听请自行导出. 目前仍在设计解决方案.**
 
 * 2025 / 07 / 05  
-![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Mayhem (Famicom Version)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Mayhem (Famicom Version)  
 版本标识: 1.0.3 (最后修改于 2025 / 07 / 05)  
 试听地址: 暂缺  
 **使用了 Fruity Phaser**
 
-    ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Proud To Be God (Famicom Version)  
+    ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Proud To Be God (Famicom Version)  
     版本标识: 1.0.5 (最后修改于 2025 / 07 / 05)  
     试听地址: 暂缺   
 
