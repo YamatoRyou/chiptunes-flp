@@ -11,7 +11,8 @@
 * 2025 / 07 / 05  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Mayhem (Famicom Version)  
 版本标识: 1.0.3 (最后修改于 2025 / 07 / 05)  
-试听地址: 暂缺   
+试听地址: 暂缺  
+**使用了 Fruity Phaser**
 
     ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Proud To Be God (Famicom Version)  
     版本标识: 1.0.5 (最后修改于 2025 / 07 / 05)  
