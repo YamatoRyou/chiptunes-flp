@@ -9,9 +9,17 @@
 **本页提供的所有以 `https://site.douban.com` 开头的试听地址均已失效, 如需试听请自行导出. 目前仍在设计解决方案.**
 
 * 2026 / 03 / 26  
-![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) You Shall Be The One (Famicom Version)  
-版本标识: 1.0.6 (最后修改于 2026 / 03 / 26)  
+![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) When We Meet Again (Famicom Version)  
+版本标识: 1.0.3 (最后修改于 2026 / 03 / 26)  
 试听地址: 暂缺  
+
+    ![avatar](http://imgsrc.baidu.com/forum/pic/item/354a8f94a4c27d1edeebde3115d5ad6edfc438ef.jpg) Central City Night (Famicom Version)  
+    版本标识: 1.0.2 (最后修改于 2025 / 08 / 22)  
+    试听地址: 暂缺  
+
+    ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) You Shall Be The One (Famicom Version)  
+    版本标识: 1.0.6 (最后修改于 2026 / 03 / 26)  
+    试听地址: 暂缺  
 
 * 2025 / 07 / 05  
 ![avatar](http://imgsrc.baidu.com/forum/pic/item/66e1acc27d1ed21b0304cb10a36eddc453da3fef.jpg) Mayhem (Famicom Version)  
